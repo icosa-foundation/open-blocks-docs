@@ -1,6 +1,6 @@
 # Changelog since v0.1
 
-[Full release details](https://github.com/icosa-foundation/open-blocks/compare/v0.1...c740fb0ec5022d7480e5d1ebba991b00c00d5048)
+[Full release details](https://github.com/icosa-foundation/open-blocks/compare/v0.1...466a5d3f2998674e5f48f07f7eed38baaf04b5f2)
 
 ## 🚀 Features
 
@@ -32,15 +32,14 @@
 
 - Upload releases to Steam ([PR #17](https://github.com/icosa-foundation/open-blocks/pull/17) by @mikeage)
 
+- Automatically upload docs to open-blocks-docs ([PR #19](https://github.com/icosa-foundation/open-blocks/pull/19) by @mikeage)
+
+- Fix typo in steam release dependencies (cosmetic only) ([PR #20](https://github.com/icosa-foundation/open-blocks/pull/20) by @mikeage)
+
 
 ## 📦 Dependencies / Maintenance
 
 - Merge upstream ([PR #10](https://github.com/icosa-foundation/open-blocks/pull/10) by @andybak)
-
-
-## 💬 Uncategorized
-
-- Automatically upload docs to open-blocks-docs ([PR #19](https://github.com/icosa-foundation/open-blocks/pull/19) by @mikeage)
 
 
 
