@@ -1,6 +1,6 @@
 # Changelog since v0.1
 
-[Full release details](https://github.com/icosa-foundation/open-blocks/compare/v0.1...466a5d3f2998674e5f48f07f7eed38baaf04b5f2)
+[Full release details](https://github.com/icosa-foundation/open-blocks/compare/v0.1...c97f39e33e6b0d1cebad2e449d6af9c0ed89750c)
 
 ## 🚀 Features
 
@@ -40,6 +40,11 @@
 ## 📦 Dependencies / Maintenance
 
 - Merge upstream ([PR #10](https://github.com/icosa-foundation/open-blocks/pull/10) by @andybak)
+
+
+## 💬 Uncategorized
+
+- Sync with upstream ([PR #21](https://github.com/icosa-foundation/open-blocks/pull/21) by @mikeage)
 
 
 
