@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Home](README.md)
+* [Experimental Features](labs.md)
 
 ## Blog
 
