@@ -1,6 +1,6 @@
 # Contacting Us
 
-Open Brush is developed and managed by the [Icosa Foundation](http://icosa.foundation/)
+Open Blocks is developed and managed by the [Icosa Foundation](http://icosa.foundation/)
 
 You can email us at [hello@icosa.foundation](mailto:hello@icosa.foundation)
 
