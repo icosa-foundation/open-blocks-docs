@@ -1,6 +1,6 @@
 # Changelog since v0.2
 
-[Full release details](https://github.com/icosa-foundation/open-blocks/compare/v0.2...dbde6721dfc855deecc3518e52994aa9a16e4dd8)
+[Full release details](https://github.com/icosa-foundation/open-blocks/compare/v0.2...68655f4faf59ef3eb32bb3adb9880345271277e4)
 
 ## 💬 Uncategorized
 
