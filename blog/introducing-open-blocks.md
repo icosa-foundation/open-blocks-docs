@@ -19,7 +19,7 @@ Originally developed in-house by Google, Blocks was one of the first VR-native c
 
 {% embed url="https://www.youtube.com/watch?v=1TX81cRqfUU" %}
 
-Sadly, Blocks was last updated in 2018, and has sat dormant since then. Around the time Tilt Brush [was open sourced](https://opensource.googleblog.com/2021/01/the-future-of-tilt-brush.html), we inquired if it was also possible for Blocks, but we were informed it wasn't possible. We got on with the development of Open Brush and our Poly replacement Icosa Gallery, and Blocks was left in the dark.
+Sadly, Blocks was last updated in 2018, and has sat dormant since then. Around the time Tilt Brush [was open sourced](https://opensource.googleblog.com/2021/01/the-future-of-tilt-brush.html), we inquired if the same could happen for Blocks, but we were informed it wasn't possible. We got on with the development of Open Brush and our Poly replacement Icosa Gallery, and Blocks was left in the dark.
 
 Earlier this year, we thought we'd try again! We reached out to both former and current members of the original Google AR & VR team who worked on Blocks, and found they were eager to find a way forward for us. A little while later, Google approved the release of the [source code](https://github.com/googlevr/blocks).
 
