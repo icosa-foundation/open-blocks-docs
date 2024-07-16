@@ -41,9 +41,6 @@
 
 - Merge upstream ([PR #10](https://github.com/icosa-foundation/open-blocks/pull/10) by @andybak)
 
-
-## 💬 Uncategorized
-
 - Sync with upstream ([PR #21](https://github.com/icosa-foundation/open-blocks/pull/21) by @mikeage)
 
 
