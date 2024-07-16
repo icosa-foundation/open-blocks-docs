@@ -21,9 +21,9 @@ Originally developed in-house by Google, Blocks was one of the first VR-native c
 
 Sadly, Blocks was last updated in 2018, and has sat dormant since then. Around the time Tilt Brush [was open sourced](https://opensource.googleblog.com/2021/01/the-future-of-tilt-brush.html), we inquired if the same could happen for Blocks, but we were informed it wasn't possible. We got on with the development of Open Brush and our Poly replacement Icosa Gallery, and Blocks was left in the dark.
 
-Earlier this year, we thought we'd try again! We reached out to both former and current members of the original Google AR & VR team who worked on Blocks, and found they were eager to find a way forward for us. A little while later, Google approved the release of the [source code](https://github.com/googlevr/blocks).
+Earlier this year, we thought we'd try again! We reached out to both former and current members of the original Google Blocks team who worked on Blocks, and found they were eager to find a way forward for us. A little while later, Google approved the release of the [source code](https://github.com/googlevr/blocks).
 
-We've been working hard with the Google AR & VR team in the last few weeks to bring the codebase to a usable state, so anyone should now be able to download and run the Unity project.
+We've been working hard with the Google Blocks team in the last few weeks to bring the codebase to a usable state, so anyone should now be able to download and run the Unity project.
 
 However, it's not enough to just release what already exists...
 
@@ -47,9 +47,9 @@ We invite developers, artists, and XR enthusiasts to join our community and help
 
 Check out our [GitHub](https://github.com/icosa-foundation/open-blocks), try the pre-release [builds](https://github.com/icosa-foundation/open-blocks/releases), and share your feedback on our [Discord](https://discord.gg/W7NCEYnEfy). Together, we can create a powerful, community-driven tool that enhances VR creativity for everyone.
 
-#### A heartfelt thank you to Google AR & VR team
+#### A heartfelt thank you to Google Blocks team
 
-We want to extend a big thank you to the Google VR team for their hard work with the original application, and for making the source code available to the community. We'd like to give a special shoutout to [Jason Toff](https://x.com/jasontoff), who helped us reach out to the team and get the ball rolling. Their support has been instrumental in enabling us to bring Open Blocks to the community.
+We want to extend a big thank you to the Google Blocks team for their hard work with the original application, and for making the source code available to the community. We'd like to give a special shoutout to [Jason Toff](https://x.com/jasontoff), who helped us reach out to the team and get the ball rolling. Their support has been instrumental in enabling us to bring Open Blocks to the community.
 
 Stay tuned for more updates, and let’s create something amazing with Open Blocks!
 
