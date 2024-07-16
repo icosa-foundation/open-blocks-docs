@@ -43,7 +43,7 @@ We’re excited to announce that Open Blocks will soon be available on Steam, an
 
 #### A community effort
 
-We invite developers, artists, and XR enthusiasts to join our community and help shape the future of Open Blocks. Thousands of users rely on tools like Open Blocks and Open Brush daily for their XR productivity. Your contributions - whether through code, feedback, or community engagement - are crucial to driving this project forward and ensuring it continues to evolve and improve.
+We invite developers, artists, and XR enthusiasts to join our community and help shape the future of Open Blocks. Thousands of users rely on tools like Open Blocks and Open Brush daily for their XR productivity. Your contributions - whether through code, donations, feedback, or community engagement - are crucial to driving this project forward and ensuring it continues to evolve and improve.
 
 Check out our [GitHub](https://github.com/icosa-foundation/open-blocks), try the pre-release [builds](https://github.com/icosa-foundation/open-blocks/releases), and share your feedback on our [Discord](https://discord.gg/W7NCEYnEfy). Together, we can create a powerful, community-driven tool that enhances VR creativity for everyone.
 
@@ -59,10 +59,13 @@ The Icosa Foundation Maintainers
 
 #### About Icosa Foundation
 
-Icosa Foundation was created with the mission of preserving and maintaining the legacy of Google's Poly platform, realized in [**Icosa Gallery**](https://icosa.gallery). We also quickly grew to maintain [**Open Brush**](https://openbrush.app), a fork of Google’s discontinued VR painting app Tilt Brush. We’re dedicated to preserving and enhancing these creative tools, ensuring they remain accessible and continue to grow with the needs of the ever changing XR landscape.\
+Icosa Foundation was created with the mission of preserving and maintaining the legacy of Google's Poly platform, realized in [**Icosa Gallery**](https://icosa.gallery). We also quickly grew to maintain [**Open Brush**](https://openbrush.app), a fork of Google’s discontinued VR painting app Tilt Brush. We’re dedicated to preserving and enhancing these creative tools, ensuring they remain accessible and continue to grow with the needs of the ever changing XR landscape.
+
+If you would like to support us financially, we have an [Open Collective](https://opencollective.com/icosa) page. Any funds raised go towards maintaining our free software, with contributions going towards bug bounties, freelance developers, store fees, and paying for server infrastructure. Any support is greatly appreciated.\
 \
 **Links**\
 [Discord](https://discord.gg/W7NCEYnEfy)\
+[Open Collective](https://opencollective.com/icosa)\
 \
 [Open Blocks on T](https://x.com/openblocksapp)[witter](https://x.com/openblocksapp)\
 [Open Brush on T](https://x.com/openbrushapp)[witter](https://x.com/openbrushapp)\
