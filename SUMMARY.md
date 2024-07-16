@@ -8,3 +8,4 @@
 ## Blog
 
 * [Introducing Open Blocks!](blog/introducing-open-blocks.md)
+* [Contacting Us](blog/contacting-us.md)
