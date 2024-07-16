@@ -64,9 +64,9 @@ Icosa Foundation was created with the mission of preserving and maintaining the 
 **Links**\
 [Discord](https://discord.gg/W7NCEYnEfy)\
 \
-[Open Blocks on X](https://x.com/openblocksapp)\
-[Open Brush on X](https://x.com/openbrushapp)\
-[Icosa Foundation on X](https://x.com/IcosaFoundation)\
+[Open Blocks on T](https://x.com/openblocksapp)[witter](https://x.com/openblocksapp)\
+[Open Brush on T](https://x.com/openbrushapp)[witter](https://x.com/openbrushapp)\
+[Icosa Foundation on T](https://x.com/IcosaFoundation)[witter](https://x.com/IcosaFoundation)\
 \
 
 
