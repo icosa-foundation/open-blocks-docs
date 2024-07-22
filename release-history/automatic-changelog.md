@@ -1,6 +1,6 @@
 # Changelog since v0.2
 
-[Full release details](https://github.com/icosa-foundation/open-blocks/compare/v0.2...0a2d5e2bb70be1dd341d42caf6da55a99d0b0a34)
+[Full release details](https://github.com/icosa-foundation/open-blocks/compare/v0.2...f3466fb5ddd0073f2f92932b8ed0ceaeb842b750)
 
 ## 🐛 Fixes
 
@@ -10,6 +10,8 @@
 ## 💬 Uncategorized
 
 - Create FUNDING.yml ([PR #22](https://github.com/icosa-foundation/open-blocks/pull/22) by @mikeskydev)
+
+- Feature/better hover detection ([PR #24](https://github.com/icosa-foundation/open-blocks/pull/24) by @naam00)
 
 
 
