@@ -1,6 +1,11 @@
 # Changelog since v0.2
 
-[Full release details](https://github.com/icosa-foundation/open-blocks/compare/v0.2...68655f4faf59ef3eb32bb3adb9880345271277e4)
+[Full release details](https://github.com/icosa-foundation/open-blocks/compare/v0.2...0a2d5e2bb70be1dd341d42caf6da55a99d0b0a34)
+
+## 🐛 Fixes
+
+- FIXED freeform strokes having non-manifold 'spine' faces left over ([PR #23](https://github.com/icosa-foundation/open-blocks/pull/23) by @naam00)
+
 
 ## 💬 Uncategorized
 
