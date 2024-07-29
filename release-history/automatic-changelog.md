@@ -1,6 +1,6 @@
 # Changelog since v0.2
 
-[Full release details](https://github.com/icosa-foundation/open-blocks/compare/v0.2...be1cd2fbf6d60e4890d628b8fbce298092c3b64f)
+[Full release details](https://github.com/icosa-foundation/open-blocks/compare/v0.2...e7378cd4e29bd33dea34164077f6eb66db428b87)
 
 ## 🚀 Features
 
@@ -19,6 +19,8 @@
 - Create FUNDING.yml ([PR #22](https://github.com/icosa-foundation/open-blocks/pull/22) by @mikeskydev)
 
 - Remove an unused asset pack ([PR #27](https://github.com/icosa-foundation/open-blocks/pull/27) by @andybak)
+
+- Enable dependabot ([PR #28](https://github.com/icosa-foundation/open-blocks/pull/28) by @mikeage)
 
 
 
