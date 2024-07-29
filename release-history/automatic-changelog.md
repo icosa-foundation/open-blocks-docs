@@ -1,6 +1,6 @@
 # Changelog since v0.2
 
-[Full release details](https://github.com/icosa-foundation/open-blocks/compare/v0.2...7743fe3d889ade25c12be3a02b66d49760493058)
+[Full release details](https://github.com/icosa-foundation/open-blocks/compare/v0.2...20489ab8ae4064777130445d57f1ef224e01bad9)
 
 ## 🚀 Features
 
@@ -16,18 +16,20 @@
 
 ## 📦 Dependencies / Maintenance
 
+- Remove an unused asset pack ([PR #27](https://github.com/icosa-foundation/open-blocks/pull/27) by @andybak)
+
 - Enable dependabot ([PR #28](https://github.com/icosa-foundation/open-blocks/pull/28) by @mikeage)
 
 - Bump mikepenz/release-changelog-builder-action from 4 to 5 ([PR #29](https://github.com/icosa-foundation/open-blocks/pull/29) by @dependabot[bot])
 
 - Bump actions/setup-dotnet from 4.0.0 to 4.0.1 ([PR #30](https://github.com/icosa-foundation/open-blocks/pull/30) by @dependabot[bot])
 
+- Bump actions/setup-python from 5.1.0 to 5.1.1 ([PR #31](https://github.com/icosa-foundation/open-blocks/pull/31) by @dependabot[bot])
+
 
 ## 💬 Uncategorized
 
 - Create FUNDING.yml ([PR #22](https://github.com/icosa-foundation/open-blocks/pull/22) by @mikeskydev)
-
-- Remove an unused asset pack ([PR #27](https://github.com/icosa-foundation/open-blocks/pull/27) by @andybak)
 
 
 
