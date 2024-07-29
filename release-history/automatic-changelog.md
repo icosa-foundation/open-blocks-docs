@@ -1,6 +1,6 @@
 # Changelog since v0.2
 
-[Full release details](https://github.com/icosa-foundation/open-blocks/compare/v0.2...a19f85b64729f0ad8565e05ee39c68fbbfc58acc)
+[Full release details](https://github.com/icosa-foundation/open-blocks/compare/v0.2...7743fe3d889ade25c12be3a02b66d49760493058)
 
 ## 🚀 Features
 
@@ -19,6 +19,8 @@
 - Enable dependabot ([PR #28](https://github.com/icosa-foundation/open-blocks/pull/28) by @mikeage)
 
 - Bump mikepenz/release-changelog-builder-action from 4 to 5 ([PR #29](https://github.com/icosa-foundation/open-blocks/pull/29) by @dependabot[bot])
+
+- Bump actions/setup-dotnet from 4.0.0 to 4.0.1 ([PR #30](https://github.com/icosa-foundation/open-blocks/pull/30) by @dependabot[bot])
 
 
 ## 💬 Uncategorized
