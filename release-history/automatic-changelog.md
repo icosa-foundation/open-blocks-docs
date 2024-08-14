@@ -1,6 +1,6 @@
 # Changelog since v0.2
 
-[Full release details](https://github.com/icosa-foundation/open-blocks/compare/v0.2...f8d3c646c527e0b4d98ccbbb8cf31e9a7f1d34b7)
+[Full release details](https://github.com/icosa-foundation/open-blocks/compare/v0.2...9087e2efbced276d6f2fc0efce7e1603fc438c06)
 
 ## 🚀 Features
 
@@ -32,6 +32,8 @@
 - Create FUNDING.yml ([PR #22](https://github.com/icosa-foundation/open-blocks/pull/22) by @mikeskydev)
 
 - Fix reference image import ([PR #33](https://github.com/icosa-foundation/open-blocks/pull/33) by @andybak)
+
+- Intro logo and other branding/naming changes ([PR #32](https://github.com/icosa-foundation/open-blocks/pull/32) by @andybak)
 
 
 
