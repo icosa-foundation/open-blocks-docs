@@ -1,10 +1,12 @@
 # Changelog since v0.2
 
-[Full release details](https://github.com/icosa-foundation/open-blocks/compare/v0.2...9087e2efbced276d6f2fc0efce7e1603fc438c06)
+[Full release details](https://github.com/icosa-foundation/open-blocks/compare/v0.2...4dc2be797c812a5b7d49f63cd7b30c373b78adf0)
 
 ## 🚀 Features
 
 - Feature/better hover detection ([PR #24](https://github.com/icosa-foundation/open-blocks/pull/24) by @naam00)
+
+- Intro logo and other branding/naming changes ([PR #32](https://github.com/icosa-foundation/open-blocks/pull/32) by @andybak)
 
 
 ## 🐛 Fixes
@@ -12,6 +14,8 @@
 - FIXED freeform strokes having non-manifold 'spine' faces left over ([PR #23](https://github.com/icosa-foundation/open-blocks/pull/23) by @naam00)
 
 - Fix button actions and enum ([PR #26](https://github.com/icosa-foundation/open-blocks/pull/26) by @andybak)
+
+- Fix reference image import ([PR #33](https://github.com/icosa-foundation/open-blocks/pull/33) by @andybak)
 
 
 ## 📦 Dependencies / Maintenance
@@ -31,9 +35,7 @@
 
 - Create FUNDING.yml ([PR #22](https://github.com/icosa-foundation/open-blocks/pull/22) by @mikeskydev)
 
-- Fix reference image import ([PR #33](https://github.com/icosa-foundation/open-blocks/pull/33) by @andybak)
-
-- Intro logo and other branding/naming changes ([PR #32](https://github.com/icosa-foundation/open-blocks/pull/32) by @andybak)
+- Switch to standard shader for intro logo ([PR #35](https://github.com/icosa-foundation/open-blocks/pull/35) by @andybak)
 
 
 
