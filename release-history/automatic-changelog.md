@@ -1,6 +1,6 @@
 # Changelog since v0.2
 
-[Full release details](https://github.com/icosa-foundation/open-blocks/compare/v0.2...4dc2be797c812a5b7d49f63cd7b30c373b78adf0)
+[Full release details](https://github.com/icosa-foundation/open-blocks/compare/v0.2...544c8eef7779ecfdb087f55f94c7d03e73e67e2b)
 
 ## 🚀 Features
 
@@ -36,6 +36,8 @@
 - Create FUNDING.yml ([PR #22](https://github.com/icosa-foundation/open-blocks/pull/22) by @mikeskydev)
 
 - Switch to standard shader for intro logo ([PR #35](https://github.com/icosa-foundation/open-blocks/pull/35) by @andybak)
+
+- Add "powered by" intro text ([PR #36](https://github.com/icosa-foundation/open-blocks/pull/36) by @andybak)
 
 
 
