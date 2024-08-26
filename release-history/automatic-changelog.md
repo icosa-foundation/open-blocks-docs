@@ -1,12 +1,14 @@
 # Changelog since v0.2
 
-[Full release details](https://github.com/icosa-foundation/open-blocks/compare/v0.2...544c8eef7779ecfdb087f55f94c7d03e73e67e2b)
+[Full release details](https://github.com/icosa-foundation/open-blocks/compare/v0.2...495f9835dfe4670df6d23b3458088cec512e8776)
 
 ## 🚀 Features
 
 - Feature/better hover detection ([PR #24](https://github.com/icosa-foundation/open-blocks/pull/24) by @naam00)
 
 - Intro logo and other branding/naming changes ([PR #32](https://github.com/icosa-foundation/open-blocks/pull/32) by @andybak)
+
+- Add "powered by" intro text ([PR #36](https://github.com/icosa-foundation/open-blocks/pull/36) by @andybak)
 
 
 ## 🐛 Fixes
@@ -37,7 +39,7 @@
 
 - Switch to standard shader for intro logo ([PR #35](https://github.com/icosa-foundation/open-blocks/pull/35) by @andybak)
 
-- Add "powered by" intro text ([PR #36](https://github.com/icosa-foundation/open-blocks/pull/36) by @andybak)
+- Placeholder urls for remote services ([PR #38](https://github.com/icosa-foundation/open-blocks/pull/38) by @andybak)
 
 
 
