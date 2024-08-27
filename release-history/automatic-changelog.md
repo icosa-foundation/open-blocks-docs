@@ -10,6 +10,8 @@
 
 - Add "powered by" intro text ([PR #36](https://github.com/icosa-foundation/open-blocks/pull/36) by @andybak)
 
+- Placeholder urls for remote services ([PR #38](https://github.com/icosa-foundation/open-blocks/pull/38) by @andybak)
+
 
 ## 🐛 Fixes
 
@@ -38,8 +40,6 @@
 - Create FUNDING.yml ([PR #22](https://github.com/icosa-foundation/open-blocks/pull/22) by @mikeskydev)
 
 - Switch to standard shader for intro logo ([PR #35](https://github.com/icosa-foundation/open-blocks/pull/35) by @andybak)
-
-- Placeholder urls for remote services ([PR #38](https://github.com/icosa-foundation/open-blocks/pull/38) by @andybak)
 
 
 
