@@ -1,6 +1,11 @@
 # Changelog since v0.3
 
-[Full release details](https://github.com/icosa-foundation/open-blocks/compare/v0.3...0ff8a9b9fdf556280e00ac887682fe66458702a8)
+[Full release details](https://github.com/icosa-foundation/open-blocks/compare/v0.3...b8111e85d7065eca0727923863820a486f7507cc)
+
+## 🚀 Features
+
+- Add a new shape (icosahedron) ([PR #39](https://github.com/icosa-foundation/open-blocks/pull/39) by @andybak)
+
 
 ## 📦 Dependencies / Maintenance
 
