@@ -1,10 +1,15 @@
 # Changelog since v0.3
 
-[Full release details](https://github.com/icosa-foundation/open-blocks/compare/v0.3...5a71ca31470a68b6d243009cb375885d65c5eb07)
+[Full release details](https://github.com/icosa-foundation/open-blocks/compare/v0.3...8b04f037072240799106abcd28864fb5d9cbf7fd)
 
 ## 🚀 Features
 
 - Add a new shape (icosahedron) ([PR #39](https://github.com/icosa-foundation/open-blocks/pull/39) by @andybak)
+
+
+## 🐛 Fixes
+
+- When extruding multiple faces use each face's own normal ([PR #42](https://github.com/icosa-foundation/open-blocks/pull/42) by @andybak)
 
 
 ## 📦 Dependencies / Maintenance
@@ -14,7 +19,7 @@
 
 ## 💬 Uncategorized
 
-- When extruding multiple faces use each face's own normal ([PR #42](https://github.com/icosa-foundation/open-blocks/pull/42) by @andybak)
+- Fix extrude direction ([PR #44](https://github.com/icosa-foundation/open-blocks/pull/44) by @andybak)
 
 
 
