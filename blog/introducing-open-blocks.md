@@ -1,8 +1,7 @@
 ---
 description: Blocks is going open source 🎉
-cover: >-
-  https://media.discordapp.net/attachments/1255458175474339860/1262735516458029106/image.png?ex=6697ad97&is=66965c17&hm=1bf3b8cf430eb6570a059c3642140aa4712c86bb77bf60083068f6891a468723&=&format=webp&quality=lossless&width=1197&height=670
-coverY: 12
+cover: ../.gitbook/assets/image (1).png
+coverY: 0
 ---
 
 # Introducing Open Blocks!
