@@ -1,6 +1,6 @@
 # Changelog since v0.3
 
-[Full release details](https://github.com/icosa-foundation/open-blocks/compare/v0.3...ba81bebf9e8eb7e2e746ef4f05191b0e9e88f6d2)
+[Full release details](https://github.com/icosa-foundation/open-blocks/compare/v0.3...b69b239513cf7270c5659f9d04b90b580f50675e)
 
 ## 🚀 Features
 
@@ -14,6 +14,8 @@
 - When extruding multiple faces use each face's own normal ([PR #42](https://github.com/icosa-foundation/open-blocks/pull/42) by @andybak)
 
 - Fix extrude direction ([PR #44](https://github.com/icosa-foundation/open-blocks/pull/44) by @andybak)
+
+- Use the original algorithm when extruding a single face ([PR #48](https://github.com/icosa-foundation/open-blocks/pull/48) by @andybak)
 
 
 ## 📦 Dependencies / Maintenance
