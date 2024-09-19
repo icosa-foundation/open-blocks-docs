@@ -1,7 +1,15 @@
 # Table of contents
 
 * [Home](README.md)
+* [Tools](tools/README.md)
+  * [Insert Shape Tool](tools/insert-shape-tool.md)
+  * [Insert Stroke Tool](tools/insert-stroke-tool.md)
+  * [Paint Tool](tools/paint-tool.md)
+  * [Grab Tool](tools/grab-tool.md)
+  * [Modify Tool](tools/modify-tool.md)
+  * [Eraser Tool](tools/eraser-tool.md)
 * [Snapping](snapping.md)
+* [Exporting To Other Apps](exporting-to-other-apps.md)
 * [Environment Options](environments.md)
 * [Experimental Features](labs.md)
 * [Saving and Sharing on the Web](saving-and-sharing-on-the-web.md)
