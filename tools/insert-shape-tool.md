@@ -9,6 +9,8 @@ Inserts one of the predefined shapes:&#x20;
 * Torus
 * Icosahedron (beta release)
 
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+
 #### Controls:
 
 | Controller | Input             | Result         |

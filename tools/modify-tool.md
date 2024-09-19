@@ -2,6 +2,8 @@
 
 Modifies parts of a shape - either moving, subdividing or extruding.
 
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
 #### Controls:
 
 | Controller | Input                            | Result                        |

@@ -1,6 +1,10 @@
 # Grab Tool
 
-Select entire shapes to move, scale, flip, group or duplicate them
+Select entire shapes to move, scale, flip, group or duplicate them.
+
+![](<../.gitbook/assets/image (5).png>)
+
+
 
 #### Controls:
 
