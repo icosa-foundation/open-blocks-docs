@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Home](README.md)
+* [Controls](controls.md)
 * [Tools](tools/README.md)
   * [Insert Shape Tool](tools/insert-shape-tool.md)
   * [Insert Stroke Tool](tools/insert-stroke-tool.md)

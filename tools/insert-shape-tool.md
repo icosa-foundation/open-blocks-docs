@@ -11,12 +11,6 @@ Inserts one of the predefined shapes:&#x20;
 
 #### Controls:
 
-* **Thumbstick/pad left:** Previous shape
-* **Thumbstick/pad right:** Next shape
-* **Thumbstick/pad up:** Increase size
-
-
-
 | Controller | Input             | Result         |
 | ---------- | ----------------- | -------------- |
 | Main       | Directional left  | Previous shape |
