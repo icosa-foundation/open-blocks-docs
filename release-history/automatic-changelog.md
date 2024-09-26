@@ -1,6 +1,6 @@
 # Changelog since v0.3
 
-[Full release details](https://github.com/icosa-foundation/open-blocks/compare/v0.3...b69b239513cf7270c5659f9d04b90b580f50675e)
+[Full release details](https://github.com/icosa-foundation/open-blocks/compare/v0.3...b304e3c800f7aaeb716e60d5f11fafc63ae16ec3)
 
 ## 🚀 Features
 
@@ -16,6 +16,11 @@
 - Fix extrude direction ([PR #44](https://github.com/icosa-foundation/open-blocks/pull/44) by @andybak)
 
 - Use the original algorithm when extruding a single face ([PR #48](https://github.com/icosa-foundation/open-blocks/pull/48) by @andybak)
+
+
+## 🛠️ Infrastructure
+
+- gzip config.vdf before storing as a secret ([PR #49](https://github.com/icosa-foundation/open-blocks/pull/49) by @mikeage)
 
 
 ## 📦 Dependencies / Maintenance
