@@ -1,6 +1,6 @@
 # Changelog since v0.3
 
-[Full release details](https://github.com/icosa-foundation/open-blocks/compare/v0.3...4e01284cf270345f9407b31ddd2b273909fd8fe8)
+[Full release details](https://github.com/icosa-foundation/open-blocks/compare/v0.3...15bbf4ce23dad4573e5883efe24521086d8a4a9f)
 
 ## 🚀 Features
 
@@ -28,6 +28,11 @@
 ## 📦 Dependencies / Maintenance
 
 - Bump actions/setup-python from 5.1.1 to 5.2.0 ([PR #40](https://github.com/icosa-foundation/open-blocks/pull/40) by @dependabot[bot])
+
+
+## 💬 Uncategorized
+
+- Works on Linux thanks to Proton experimental ([PR #52](https://github.com/icosa-foundation/open-blocks/pull/52) by @Utopiah)
 
 
 
