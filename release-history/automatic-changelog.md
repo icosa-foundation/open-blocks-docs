@@ -1,6 +1,6 @@
 # Changelog since v0.3
 
-[Full release details](https://github.com/icosa-foundation/open-blocks/compare/v0.3...15bbf4ce23dad4573e5883efe24521086d8a4a9f)
+[Full release details](https://github.com/icosa-foundation/open-blocks/compare/v0.3...83e171a498e76eb4b9cd4f026bc4a77b23f38460)
 
 ## 🚀 Features
 
@@ -23,6 +23,8 @@
 - gzip config.vdf before storing as a secret ([PR #49](https://github.com/icosa-foundation/open-blocks/pull/49) by @mikeage)
 
 - Run the build on 'main' periodically to keep the caches alive ([PR #50](https://github.com/icosa-foundation/open-blocks/pull/50) by @mikeage)
+
+- Combine all dependabot PRs into one ([PR #57](https://github.com/icosa-foundation/open-blocks/pull/57) by @mikeage)
 
 
 ## 📦 Dependencies / Maintenance
