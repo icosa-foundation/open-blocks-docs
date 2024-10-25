@@ -1,6 +1,6 @@
 # Changelog since v0.3
 
-[Full release details](https://github.com/icosa-foundation/open-blocks/compare/v0.3...bab78212b0211267610c5adf015210f047815627)
+[Full release details](https://github.com/icosa-foundation/open-blocks/compare/v0.3...6bec5a2c9ea32943a0bdb726da831dec954deecb)
 
 ## 🚀 Features
 
@@ -37,6 +37,8 @@
 ## 💬 Uncategorized
 
 - Works on Linux thanks to Proton experimental ([PR #52](https://github.com/icosa-foundation/open-blocks/pull/52) by @Utopiah)
+
+- Use PAT to create releases and tags ([PR #59](https://github.com/icosa-foundation/open-blocks/pull/59) by @mikeage)
 
 
 
