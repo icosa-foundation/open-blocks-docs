@@ -1,6 +1,6 @@
 # Changelog since v0.3
 
-[Full release details](https://github.com/icosa-foundation/open-blocks/compare/v0.3...83e171a498e76eb4b9cd4f026bc4a77b23f38460)
+[Full release details](https://github.com/icosa-foundation/open-blocks/compare/v0.3...bab78212b0211267610c5adf015210f047815627)
 
 ## 🚀 Features
 
@@ -30,6 +30,8 @@
 ## 📦 Dependencies / Maintenance
 
 - Bump actions/setup-python from 5.1.1 to 5.2.0 ([PR #40](https://github.com/icosa-foundation/open-blocks/pull/40) by @dependabot[bot])
+
+- Bump the all-actions-updates group with 2 updates ([PR #58](https://github.com/icosa-foundation/open-blocks/pull/58) by @dependabot[bot])
 
 
 ## 💬 Uncategorized
