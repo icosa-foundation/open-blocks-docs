@@ -22,3 +22,7 @@
 ## Blog
 
 * [Introducing Open Blocks!](blog/introducing-open-blocks.md)
+
+***
+
+* [Privacy Policy](privacy-policy.md)
