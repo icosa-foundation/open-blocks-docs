@@ -40,6 +40,10 @@ Our long term roadmap will transform Open Blocks into a full modelling suite, gi
 
 We’re excited to announce that Open Blocks will soon be available on Steam, and we will share the store page as soon as it's available. In the meantime, you can access pre-release builds from our [GitHub repository](https://github.com/icosa-foundation/open-blocks/releases).
 
+{% hint style="info" %}
+Update! We're now [live on Steam](https://store.steampowered.com/app/3077230/Open_Blocks/) Other stores/platforms coming soon...
+{% endhint %}
+
 #### A community effort
 
 We invite developers, artists, and XR enthusiasts to join our community and help shape the future of Open Blocks. Thousands of users rely on tools like Open Blocks and Open Brush daily for their XR productivity. Your contributions - whether through code, donations, feedback, or community engagement - are crucial to driving this project forward and ensuring it continues to evolve and improve.
