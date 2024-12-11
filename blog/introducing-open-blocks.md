@@ -70,9 +70,13 @@ If you would like to support us financially, we have an [Open Collective](https:
 [Discord](https://discord.gg/W7NCEYnEfy)\
 [Open Collective](https://opencollective.com/icosa)\
 \
-[Open Blocks on T](https://x.com/openblocksapp)[witter](https://x.com/openblocksapp)\
-[Open Brush on T](https://x.com/openbrushapp)[witter](https://x.com/openbrushapp)\
-[Icosa Foundation on T](https://x.com/IcosaFoundation)[witter](https://x.com/IcosaFoundation)\
+[Open Blocks Steam Download Page](https://store.steampowered.com/app/3077230/Open_Blocks/)\
+[Open Blocks Code on Github](https://github.com/icosa-foundation/open-blocks)\
+\
+[Open Blocks on Bluesky](https://bsky.app/profile/openblocks.app)\
+[Open Brush on Bluesky](https://bsky.app/profile/openbrush.app)\
+[Icosa Gallery on ](https://bsky.app/profile/icosa.gallery)[Bluesky](https://x.com/IcosaFoundation)\
+[Icosa Foundation on ](https://bsky.app/profile/icosa.foundation)[Bluesky](https://x.com/IcosaFoundation)\
 \
 
 
