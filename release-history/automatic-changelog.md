@@ -1,6 +1,6 @@
 # Changelog since v0.3
 
-[Full release details](https://github.com/icosa-foundation/open-blocks/compare/v0.3...6bec5a2c9ea32943a0bdb726da831dec954deecb)
+[Full release details](https://github.com/icosa-foundation/open-blocks/compare/v0.3...27e8147268605545cb7fd4e7848816b3faa5ca04)
 
 ## 🚀 Features
 
@@ -26,6 +26,10 @@
 
 - Combine all dependabot PRs into one ([PR #57](https://github.com/icosa-foundation/open-blocks/pull/57) by @mikeage)
 
+- Use PAT to create releases and tags ([PR #59](https://github.com/icosa-foundation/open-blocks/pull/59) by @mikeage)
+
+- Sync cleanup with Open Brush (most importantly, add support for ubuntu-24.04) ([PR #62](https://github.com/icosa-foundation/open-blocks/pull/62) by @mikeage)
+
 
 ## 📦 Dependencies / Maintenance
 
@@ -37,8 +41,6 @@
 ## 💬 Uncategorized
 
 - Works on Linux thanks to Proton experimental ([PR #52](https://github.com/icosa-foundation/open-blocks/pull/52) by @Utopiah)
-
-- Use PAT to create releases and tags ([PR #59](https://github.com/icosa-foundation/open-blocks/pull/59) by @mikeage)
 
 
 
