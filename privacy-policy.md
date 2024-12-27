@@ -17,4 +17,4 @@ In order to provide customer service for our users, you may [contact us via emai
 We reserve the right to modify this privacy policy at any time, so please review it frequently. Changes and clarifications will take effect immediately upon their posting on the website. If we make material changes to this policy, we will notify you here that it has been updated, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we use and/or disclose it.
 
 **Updates/Opting Out**\
-If you would like to access, correct, amend or delete any personal information we have about you, you are invited to contact us by [sending an email](mailto:support@openblocks.app).
+If you would like to access, correct, amend or delete any personal information we have about you, you are invited to contact us by [sending an email](mailto:contact@openblocks.app).
