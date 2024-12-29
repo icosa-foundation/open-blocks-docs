@@ -1,6 +1,6 @@
 # Changelog since v0.3
 
-[Full release details](https://github.com/icosa-foundation/open-blocks/compare/v0.3...27e8147268605545cb7fd4e7848816b3faa5ca04)
+[Full release details](https://github.com/icosa-foundation/open-blocks/compare/v0.3...f2d8d1cce27a4de6b2aa8a009b47fc1c297ebab8)
 
 ## 🚀 Features
 
@@ -41,6 +41,8 @@
 ## 💬 Uncategorized
 
 - Works on Linux thanks to Proton experimental ([PR #52](https://github.com/icosa-foundation/open-blocks/pull/52) by @Utopiah)
+
+- Fix chown error in newer Alpine images [affects new builds without caches] ([PR #66](https://github.com/icosa-foundation/open-blocks/pull/66) by @mikeage)
 
 
 
