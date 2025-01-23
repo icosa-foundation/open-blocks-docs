@@ -38,7 +38,7 @@ Our long term roadmap will transform Open Blocks into a full modelling suite, gi
 
 #### Coming soon to Steam!
 
-We’re excited to announce that Open Blocks will soon be available on Steam, and we will share the store page as soon as it's available. In the meantime, you can access pre-release builds from our [GitHub repository](https://github.com/icosa-foundation/open-blocks/releases).
+~~We’re excited to announce that Open Blocks will soon be available on Steam, and we will share the store page as soon as it's available. In the meantime, you can access pre-release builds from our~~ [~~GitHub repository~~](https://github.com/icosa-foundation/open-blocks/releases)~~.~~
 
 {% hint style="info" %}
 Update! We're now [live on Steam](https://store.steampowered.com/app/3077230/Open_Blocks/) Other stores/platforms coming soon...
@@ -64,7 +64,9 @@ The Icosa Foundation Maintainers
 
 Icosa Foundation was created with the mission of preserving and maintaining the legacy of Google's Poly platform, realized in [**Icosa Gallery**](https://icosa.gallery). We also quickly grew to maintain [**Open Brush**](https://openbrush.app), a fork of Google’s discontinued VR painting app Tilt Brush. We’re dedicated to preserving and enhancing these creative tools, ensuring they remain accessible and continue to grow with the needs of the ever changing XR landscape.
 
-If you would like to support us financially, we have an [Open Collective](https://opencollective.com/icosa) page. Any funds raised go towards maintaining our free software, with contributions going towards bug bounties, freelance developers, store fees, and paying for server infrastructure. Any support is greatly appreciated.\
+If you would like to support us financially, we have an [Open Collective](https://opencollective.com/icosa) page. Any funds raised go towards maintaining our free software, with contributions going towards bug bounties, freelance developers, store fees, and paying for server infrastructure. Any support is greatly appreciated.
+
+\
 \
 **Links**\
 [Discord](https://discord.gg/W7NCEYnEfy)\
