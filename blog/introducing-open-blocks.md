@@ -1,5 +1,5 @@
 ---
-description: Blocks is going open source 🎉
+description: Blocks is open source 🎉
 cover: ../.gitbook/assets/image (1).png
 coverY: 0
 ---
@@ -36,12 +36,10 @@ We'll also be adding glTF import support, more base shapes, an improved colour p
 
 Our long term roadmap will transform Open Blocks into a full modelling suite, giving you more control over materials, adding texturing support, and enabling more powerful tools from traditional CSG pipelines.
 
-#### Coming soon to Steam!
-
-~~We’re excited to announce that Open Blocks will soon be available on Steam, and we will share the store page as soon as it's available. In the meantime, you can access pre-release builds from our~~ [~~GitHub repository~~](https://github.com/icosa-foundation/open-blocks/releases)~~.~~
-
 {% hint style="info" %}
-Update! We're now [live on Steam](https://store.steampowered.com/app/3077230/Open_Blocks/) Other stores/platforms coming soon...
+You can install Open Blocks from [Steam](https://store.steampowered.com/app/3077230/Open_Blocks/) and the [Meta Quest Store](https://www.meta.com/en-gb/experiences/open-blocks/8043509915705378/)\
+or manually from [Github](https://github.com/icosa-foundation/open-blocks/releases) (PC) or [Github ](https://nightly.link/icosa-foundation/open-blocks/actions/runs/13035567150/Oculus%20Quest%20\(2%2B\).zip)(Quest/standalone)\
+Other stores/platforms coming soon...
 {% endhint %}
 
 #### A community effort
@@ -52,33 +50,31 @@ Check out our [GitHub](https://github.com/icosa-foundation/open-blocks), try the
 
 #### A heartfelt thank you to Google Blocks team
 
-We want to extend a big thank you to the Google Blocks team for their hard work with the original application, and for making the source code available to the community. We'd like to give a special shoutout to [Jason Toff](https://x.com/jasontoff), who helped us reach out to the team and get the ball rolling. Their support has been instrumental in enabling us to bring Open Blocks to the community.
+We want to extend a big thank you to the Google Blocks team for their hard work with the original application, and for making the source code available to the community. We'd like to give a special shout-out to [Jason Toff](https://x.com/jasontoff), who helped us reach out to the team and get the ball rolling. Their support has been instrumental in enabling us to bring Open Blocks to the community.
 
 Stay tuned for more updates, and let’s create something amazing with Open Blocks!
 
-Happy modelling,
-
+Happy modelling,\
 The Icosa Foundation Maintainers
 
 #### About Icosa Foundation
 
 Icosa Foundation was created with the mission of preserving and maintaining the legacy of Google's Poly platform, realized in [**Icosa Gallery**](https://icosa.gallery). We also quickly grew to maintain [**Open Brush**](https://openbrush.app), a fork of Google’s discontinued VR painting app Tilt Brush. We’re dedicated to preserving and enhancing these creative tools, ensuring they remain accessible and continue to grow with the needs of the ever changing XR landscape.
 
-If you would like to support us financially, we have an [Open Collective](https://opencollective.com/icosa) page. Any funds raised go towards maintaining our free software, with contributions going towards bug bounties, freelance developers, store fees, and paying for server infrastructure. Any support is greatly appreciated.
-
-\
+If you would like to support us financially, we have an [Open Collective](https://opencollective.com/icosa) page. Any funds raised go towards maintaining our free software, with contributions going towards bug bounties, freelance developers, store fees, and paying for server infrastructure. Any support is greatly appreciated.\
 \
 **Links**\
+
+
 [Discord](https://discord.gg/W7NCEYnEfy)\
 [Open Collective](https://opencollective.com/icosa)\
+[Social Media](https://linktr.ee/openblocks)\
 \
 [Open Blocks Steam Download Page](https://store.steampowered.com/app/3077230/Open_Blocks/)\
-[Open Blocks Code on Github](https://github.com/icosa-foundation/open-blocks)\
+[Open Blocks Code on Github](https://github.com/icosa-foundation/open-blocks)
+
+[Icosa Foundation Home Page](https://icosa.foundation/)\
 \
-[Open Blocks on Bluesky](https://bsky.app/profile/openblocks.app)\
-[Open Brush on Bluesky](https://bsky.app/profile/openbrush.app)\
-[Icosa Gallery on ](https://bsky.app/profile/icosa.gallery)[Bluesky](https://x.com/IcosaFoundation)\
-[Icosa Foundation on ](https://bsky.app/profile/icosa.foundation)[Bluesky](https://x.com/IcosaFoundation)\
 \
 
 
