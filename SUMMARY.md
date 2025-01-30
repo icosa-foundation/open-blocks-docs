@@ -18,8 +18,7 @@
   * [v0.2.0](release-history/v0.2.0.md)
   * [Current Beta Release Notes](release-history/automatic-changelog.md)
 * [Tutorials and other Resources](tutorials-and-other-resources.md)
-* [Sponsors](sponsors.md)
-* [Contacting Us](contacting-us.md)
+* [Support](support.md)
 
 ## Blog
 
@@ -27,5 +26,6 @@
 
 ***
 
+* [Sponsors](sponsors.md)
+* [Contacting Us](contacting-us.md)
 * [Privacy Policy](privacy-policy.md)
-* [Support](support.md)
