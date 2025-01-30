@@ -6,6 +6,8 @@ coverY: 0
 
 # Introducing Open Blocks!
 
+{% embed url="https://youtu.be/IhNdgD2jsx0" %}
+
 Hey VR creators,
 
 Google Blocks is [now open source software](https://opensource.googleblog.com/2024/07/google-blocks-is-now-open-source.html)! We're extremely excited to announce that our fork, naturally called **Open Blocks**, is already in development and will be joining [Open Brush](https://openbrush.app) in providing free XR creation tools to everyone.
