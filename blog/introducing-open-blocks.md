@@ -42,11 +42,11 @@ We've been working hard with the Google Blocks team in the last few weeks to bri
 
 However, it's not enough to just release what already exists...
 
-#### Proposed roadmap for Open Blocks
+#### Our Roadmap for Open Blocks
 
 We pushed hard for the Blocks code to be released, and we're committed to keeping its spirit alive. Naturally, we are going to release and maintain our own community-led version under the Icosa banner, just as we have done with Open Brush.
 
-Over the coming months, we'll be working hard to bring the Open Blocks codebase up to modern standards. First up, we'll be switching to use the OpenXR framework and new input system within Unity, enabling us to target Open Blocks for a much wider range of XR devices. At that point, we will be aiming to create a standalone XR port, and bring Open Blocks to the Quest and Pico platforms. Along the way, there will be plenty of opportunity to add immersive XR features such as MR passthrough.
+We're working hard to bring the Open Blocks codebase up to modern standards. First up, we've switched to use the OpenXR framework and new input system within Unity, enabling us to target Open Blocks for a much wider range of XR devices. We have created a standalone XR port, which brings Open Blocks to the Quest (and soon Pico) platform. Next, there are be plenty of opportunities to add immersive XR features such as MR passthrough.
 
 We'll also be adding glTF import support, more base shapes, an improved colour palette and support for our Poly replacement, Icosa Gallery. This will be instrumental in unlocking Open Blocks' full potential for asset creation and remixing.
 
@@ -54,7 +54,7 @@ Our long term roadmap will transform Open Blocks into a full modelling suite, gi
 
 {% hint style="info" %}
 You can install Open Blocks from [Steam](https://store.steampowered.com/app/3077230/Open_Blocks/) and the [Meta Quest Store](https://www.meta.com/en-gb/experiences/open-blocks/8043509915705378/)\
-or manually from [Github](https://github.com/icosa-foundation/open-blocks/releases) (PC) or [Github ](https://nightly.link/icosa-foundation/open-blocks/actions/runs/13035567150/Oculus%20Quest%20\(2%2B\).zip)(Quest/standalone)\
+(or manually from Github for [PC](https://github.com/icosa-foundation/open-blocks/releases) or [Quest/Standalone](https://nightly.link/icosa-foundation/open-blocks/actions/runs/13035567150/Oculus%20Quest%20\(2%2B\).zip) )\
 Other stores/platforms coming soon...
 {% endhint %}
 
