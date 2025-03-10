@@ -8,7 +8,7 @@ By using our Services, you agree to the collection and use of information in rel
 
 **Information Collection and Use**
 
-For a better experience while using our App, we may automatically collect anonymized data that are processed to improve the App.
+As per Meta requirements, the App receives information about the users' age group, but this information is never stored and is immediately discarded.
 
 In order to provide customer service for our users, you may [contact us via email](mailto:contact@openblocks.app). During this transaction it is likely that we will receive Personal Information (e-mail address, and any other Personal Information you may include). Your Personal Information will only be used to provide you with the support requested, and will not be processed for any other reason. Any emails we receive will be kept on record to enable us to provide continued customer service, but you are free to request Personal Information deletion at any time by contacting us on the same email: [contact@openblocks.app](mailto:contact@openblocks.app)
 
