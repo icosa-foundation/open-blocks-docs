@@ -1,6 +1,6 @@
 # Changelog since v0.3
 
-[Full release details](https://github.com/icosa-foundation/open-blocks/compare/v0.3...889d956f08bd5c53c464f5b927e9f9ce14627cf2)
+[Full release details](https://github.com/icosa-foundation/open-blocks/compare/v0.3...25e9b237ae905411aec3feca0c69d05c0161137c)
 
 ## 🚀 Features
 
@@ -45,6 +45,8 @@
 - Fix chown error in newer Alpine images [affects new builds without caches] ([PR #66](https://github.com/icosa-foundation/open-blocks/pull/66) by @mikeage)
 
 - OpenXR and URP ([PR #67](https://github.com/icosa-foundation/open-blocks/pull/67) by @andybak)
+
+- Releases for Open Blocks are TEENS_AND_ADULTS. ([PR #68](https://github.com/icosa-foundation/open-blocks/pull/68) by @mikeage)
 
 
 
