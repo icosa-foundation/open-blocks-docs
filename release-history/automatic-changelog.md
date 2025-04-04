@@ -1,12 +1,14 @@
 # Changelog since v0.3
 
-[Full release details](https://github.com/icosa-foundation/open-blocks/compare/v0.3...25e9b237ae905411aec3feca0c69d05c0161137c)
+[Full release details](https://github.com/icosa-foundation/open-blocks/compare/v0.3...c0924037b33902e901ac71b395029422167ea521)
 
 ## 🚀 Features
 
 - Add a new shape (icosahedron) ([PR #39](https://github.com/icosa-foundation/open-blocks/pull/39) by @andybak)
 
 - New Modify Tool mode based on previously experimental "plane subdivide" ([PR #34](https://github.com/icosa-foundation/open-blocks/pull/34) by @andybak)
+
+- URP post processing ([PR #69](https://github.com/icosa-foundation/open-blocks/pull/69) by @andybak)
 
 
 ## 🐛 Fixes
