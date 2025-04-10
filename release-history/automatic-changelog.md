@@ -1,6 +1,6 @@
 # Changelog since v0.3
 
-[Full release details](https://github.com/icosa-foundation/open-blocks/compare/v0.3...c0924037b33902e901ac71b395029422167ea521)
+[Full release details](https://github.com/icosa-foundation/open-blocks/compare/v0.3...bf7da45f4b7ebb063b64d30171f76d03b455ee4d)
 
 ## 🚀 Features
 
@@ -49,6 +49,8 @@
 - OpenXR and URP ([PR #67](https://github.com/icosa-foundation/open-blocks/pull/67) by @andybak)
 
 - Releases for Open Blocks are TEENS_AND_ADULTS. ([PR #68](https://github.com/icosa-foundation/open-blocks/pull/68) by @mikeage)
+
+- Rendering tweaks ([PR #72](https://github.com/icosa-foundation/open-blocks/pull/72) by @andybak)
 
 
 
