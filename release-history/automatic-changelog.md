@@ -8,6 +8,8 @@
 
 - New Modify Tool mode based on previously experimental "plane subdivide" ([PR #34](https://github.com/icosa-foundation/open-blocks/pull/34) by @andybak)
 
+- OpenXR and URP ([PR #67](https://github.com/icosa-foundation/open-blocks/pull/67) by @andybak)
+
 - URP post processing ([PR #69](https://github.com/icosa-foundation/open-blocks/pull/69) by @andybak)
 
 
@@ -18,6 +20,8 @@
 - Fix extrude direction ([PR #44](https://github.com/icosa-foundation/open-blocks/pull/44) by @andybak)
 
 - Use the original algorithm when extruding a single face ([PR #48](https://github.com/icosa-foundation/open-blocks/pull/48) by @andybak)
+
+- Rendering tweaks ([PR #72](https://github.com/icosa-foundation/open-blocks/pull/72) by @andybak)
 
 
 ## 🛠️ Infrastructure
@@ -32,6 +36,10 @@
 
 - Sync cleanup with Open Brush (most importantly, add support for ubuntu-24.04) ([PR #62](https://github.com/icosa-foundation/open-blocks/pull/62) by @mikeage)
 
+- Fix chown error in newer Alpine images [affects new builds without caches] ([PR #66](https://github.com/icosa-foundation/open-blocks/pull/66) by @mikeage)
+
+- Releases for Open Blocks are TEENS_AND_ADULTS. ([PR #68](https://github.com/icosa-foundation/open-blocks/pull/68) by @mikeage)
+
 
 ## 📦 Dependencies / Maintenance
 
@@ -43,14 +51,6 @@
 ## 💬 Uncategorized
 
 - Works on Linux thanks to Proton experimental ([PR #52](https://github.com/icosa-foundation/open-blocks/pull/52) by @Utopiah)
-
-- Fix chown error in newer Alpine images [affects new builds without caches] ([PR #66](https://github.com/icosa-foundation/open-blocks/pull/66) by @mikeage)
-
-- OpenXR and URP ([PR #67](https://github.com/icosa-foundation/open-blocks/pull/67) by @andybak)
-
-- Releases for Open Blocks are TEENS_AND_ADULTS. ([PR #68](https://github.com/icosa-foundation/open-blocks/pull/68) by @mikeage)
-
-- Rendering tweaks ([PR #72](https://github.com/icosa-foundation/open-blocks/pull/72) by @andybak)
 
 
 
