@@ -1,56 +1,10 @@
-# Changelog since v0.3
+# Changelog since v0.4
 
-[Full release details](https://github.com/icosa-foundation/open-blocks/compare/v0.3...bf7da45f4b7ebb063b64d30171f76d03b455ee4d)
-
-## 🚀 Features
-
-- Add a new shape (icosahedron) ([PR #39](https://github.com/icosa-foundation/open-blocks/pull/39) by @andybak)
-
-- New Modify Tool mode based on previously experimental "plane subdivide" ([PR #34](https://github.com/icosa-foundation/open-blocks/pull/34) by @andybak)
-
-- OpenXR and URP ([PR #67](https://github.com/icosa-foundation/open-blocks/pull/67) by @andybak)
-
-- URP post processing ([PR #69](https://github.com/icosa-foundation/open-blocks/pull/69) by @andybak)
-
-
-## 🐛 Fixes
-
-- When extruding multiple faces use each face's own normal ([PR #42](https://github.com/icosa-foundation/open-blocks/pull/42) by @andybak)
-
-- Fix extrude direction ([PR #44](https://github.com/icosa-foundation/open-blocks/pull/44) by @andybak)
-
-- Use the original algorithm when extruding a single face ([PR #48](https://github.com/icosa-foundation/open-blocks/pull/48) by @andybak)
-
-- Rendering tweaks ([PR #72](https://github.com/icosa-foundation/open-blocks/pull/72) by @andybak)
-
+[Full release details](https://github.com/icosa-foundation/open-blocks/compare/v0.4...90d61996a9056fe182d66f41872e5229688c0df9)
 
 ## 🛠️ Infrastructure
 
-- gzip config.vdf before storing as a secret ([PR #49](https://github.com/icosa-foundation/open-blocks/pull/49) by @mikeage)
-
-- Run the build on 'main' periodically to keep the caches alive ([PR #50](https://github.com/icosa-foundation/open-blocks/pull/50) by @mikeage)
-
-- Combine all dependabot PRs into one ([PR #57](https://github.com/icosa-foundation/open-blocks/pull/57) by @mikeage)
-
-- Use PAT to create releases and tags ([PR #59](https://github.com/icosa-foundation/open-blocks/pull/59) by @mikeage)
-
-- Sync cleanup with Open Brush (most importantly, add support for ubuntu-24.04) ([PR #62](https://github.com/icosa-foundation/open-blocks/pull/62) by @mikeage)
-
-- Fix chown error in newer Alpine images [affects new builds without caches] ([PR #66](https://github.com/icosa-foundation/open-blocks/pull/66) by @mikeage)
-
-- Releases for Open Blocks are TEENS_AND_ADULTS. ([PR #68](https://github.com/icosa-foundation/open-blocks/pull/68) by @mikeage)
-
-
-## 📦 Dependencies / Maintenance
-
-- Bump actions/setup-python from 5.1.1 to 5.2.0 ([PR #40](https://github.com/icosa-foundation/open-blocks/pull/40) by @dependabot[bot])
-
-- Bump the all-actions-updates group with 2 updates ([PR #58](https://github.com/icosa-foundation/open-blocks/pull/58) by @dependabot[bot])
-
-
-## 💬 Uncategorized
-
-- Works on Linux thanks to Proton experimental ([PR #52](https://github.com/icosa-foundation/open-blocks/pull/52) by @Utopiah)
+- Faster cleanup step (saves about 1 minute in the slow case) ([PR #73](https://github.com/icosa-foundation/open-blocks/pull/73) by @mikeage)
 
 
 
