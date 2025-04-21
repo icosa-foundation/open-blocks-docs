@@ -1,6 +1,6 @@
 # Changelog since v0.4
 
-[Full release details](https://github.com/icosa-foundation/open-blocks/compare/v0.4...b018a53719ca018bf1acd5402457ddf1948d32bf)
+[Full release details](https://github.com/icosa-foundation/open-blocks/compare/v0.4...94322910e709b63cec719fd123acf3b6631f350f)
 
 ## 🚀 Features
 
@@ -12,6 +12,8 @@
 ## 🛠️ Infrastructure
 
 - Faster cleanup step (saves about 1 minute in the slow case) ([PR #73](https://github.com/icosa-foundation/open-blocks/pull/73) by @mikeage)
+
+- Add a github action to automatically comment if/when Packages or Project Settings are changed ([PR #75](https://github.com/icosa-foundation/open-blocks/pull/75) by @mikeage)
 
 
 
