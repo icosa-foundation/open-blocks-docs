@@ -1,12 +1,14 @@
 # Changelog since v0.4
 
-[Full release details](https://github.com/icosa-foundation/open-blocks/compare/v0.4...54d6ae33d3820d93e1752318c145d6a2dd9df7fe)
+[Full release details](https://github.com/icosa-foundation/open-blocks/compare/v0.4...3db3a2e847df3776f6f0606b3aa95ad82a414712)
 
 ## 🚀 Features
 
 - Shader and performance fixes ([PR #74](https://github.com/icosa-foundation/open-blocks/pull/74) by @andybak)
 
 - Add CSG operations to Shape Tool ([PR #25](https://github.com/icosa-foundation/open-blocks/pull/25) by @andybak)
+
+- Icosa integration ([PR #70](https://github.com/icosa-foundation/open-blocks/pull/70) by @andybak)
 
 
 ## 🛠️ Infrastructure
