@@ -1,6 +1,6 @@
 # Changelog since v0.4
 
-[Full release details](https://github.com/icosa-foundation/open-blocks/compare/v0.4...3db3a2e847df3776f6f0606b3aa95ad82a414712)
+[Full release details](https://github.com/icosa-foundation/open-blocks/compare/v0.4...8a3f26f5aee566e3ab1816851bf000ab3c7a12b4)
 
 ## 🚀 Features
 
@@ -9,6 +9,11 @@
 - Add CSG operations to Shape Tool ([PR #25](https://github.com/icosa-foundation/open-blocks/pull/25) by @andybak)
 
 - Icosa integration ([PR #70](https://github.com/icosa-foundation/open-blocks/pull/70) by @andybak)
+
+
+## 🐛 Fixes
+
+- Fix internet permission on Android ([PR #81](https://github.com/icosa-foundation/open-blocks/pull/81) by @andybak)
 
 
 ## 🛠️ Infrastructure
