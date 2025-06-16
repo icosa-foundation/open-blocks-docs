@@ -1,6 +1,6 @@
 # Changelog since v0.4
 
-[Full release details](https://github.com/icosa-foundation/open-blocks/compare/v0.4...66316c177b7325787757a941d9ce724e941cc961)
+[Full release details](https://github.com/icosa-foundation/open-blocks/compare/v0.4...b25f0be1990bc387f22ad2d3d9321e1b163b7d8e)
 
 ## 🚀 Features
 
@@ -16,6 +16,8 @@
 - Fix internet permission on Android ([PR #81](https://github.com/icosa-foundation/open-blocks/pull/81) by @andybak)
 
 - Fix model menu bugs ([PR #82](https://github.com/icosa-foundation/open-blocks/pull/82) by @andybak)
+
+- Remove API delete. Fix publish url ([PR #84](https://github.com/icosa-foundation/open-blocks/pull/84) by @andybak)
 
 
 ## 🛠️ Infrastructure
