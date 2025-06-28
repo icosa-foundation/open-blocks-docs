@@ -1,6 +1,6 @@
 # Changelog since v0.4
 
-[Full release details](https://github.com/icosa-foundation/open-blocks/compare/v0.4...467136a148581d25755624a0d839511443a93cc7)
+[Full release details](https://github.com/icosa-foundation/open-blocks/compare/v0.4...808f87d7432829b8e1fb31108e713b6d99609a4f)
 
 ## 🚀 Features
 
@@ -22,6 +22,8 @@
 - Prevent exception on first run ([PR #85](https://github.com/icosa-foundation/open-blocks/pull/85) by @andybak)
 
 - Add XROrigin component to camera rig ([PR #86](https://github.com/icosa-foundation/open-blocks/pull/86) by @andybak)
+
+- Fix edge vertex highlight scale ([PR #87](https://github.com/icosa-foundation/open-blocks/pull/87) by @andybak)
 
 
 ## 🛠️ Infrastructure
