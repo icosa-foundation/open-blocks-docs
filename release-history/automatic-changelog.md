@@ -1,6 +1,6 @@
 # Changelog since v0.4
 
-[Full release details](https://github.com/icosa-foundation/open-blocks/compare/v0.4...b25f0be1990bc387f22ad2d3d9321e1b163b7d8e)
+[Full release details](https://github.com/icosa-foundation/open-blocks/compare/v0.4...9a4c15f4f1f1e807d2c5b5bdfe7e149f27e216ad)
 
 ## 🚀 Features
 
@@ -18,6 +18,8 @@
 - Fix model menu bugs ([PR #82](https://github.com/icosa-foundation/open-blocks/pull/82) by @andybak)
 
 - Remove API delete. Fix publish url ([PR #84](https://github.com/icosa-foundation/open-blocks/pull/84) by @andybak)
+
+- Prevent exception on first run ([PR #85](https://github.com/icosa-foundation/open-blocks/pull/85) by @andybak)
 
 
 ## 🛠️ Infrastructure
