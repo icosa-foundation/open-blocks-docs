@@ -1,6 +1,6 @@
 # Changelog since v0.4
 
-[Full release details](https://github.com/icosa-foundation/open-blocks/compare/v0.4...6cd08b0240355cdb607784aa8dd81eedb54b64cd)
+[Full release details](https://github.com/icosa-foundation/open-blocks/compare/v0.4...b1367259e9329dba12d27e3e53ba85bcfc2357ea)
 
 ## 🚀 Features
 
@@ -35,6 +35,8 @@
 - Use literal newline to fix file listing in the warning comment  ([PR #76](https://github.com/icosa-foundation/open-blocks/pull/76) by @mikeage)
 
 - Update pre-commit config ([PR #77](https://github.com/icosa-foundation/open-blocks/pull/77) by @mikeage)
+
+- Add gitleaks to pre-commit and update all hooks ([PR #90](https://github.com/icosa-foundation/open-blocks/pull/90) by @mikeage)
 
 
 ## 💬 Uncategorized
