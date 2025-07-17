@@ -1,6 +1,6 @@
 # Changelog since v0.4
 
-[Full release details](https://github.com/icosa-foundation/open-blocks/compare/v0.4...4278ee042463f0a2df76a36721167082045dfb88)
+[Full release details](https://github.com/icosa-foundation/open-blocks/compare/v0.4...1be92d1432a083819513f5d26eaea391beae43f0)
 
 ## 🚀 Features
 
@@ -39,6 +39,8 @@
 - Update pre-commit config ([PR #77](https://github.com/icosa-foundation/open-blocks/pull/77) by @mikeage)
 
 - Add gitleaks to pre-commit and update all hooks ([PR #90](https://github.com/icosa-foundation/open-blocks/pull/90) by @mikeage)
+
+- Fix Windows line endings ([PR #93](https://github.com/icosa-foundation/open-blocks/pull/93) by @mikeage)
 
 
 ## 💬 Uncategorized
