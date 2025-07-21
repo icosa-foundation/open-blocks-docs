@@ -1,6 +1,6 @@
 # Changelog since v0.4
 
-[Full release details](https://github.com/icosa-foundation/open-blocks/compare/v0.4...1be92d1432a083819513f5d26eaea391beae43f0)
+[Full release details](https://github.com/icosa-foundation/open-blocks/compare/v0.4...d163f42f4fe55866e3fb4cb08de1f6e4c310bf11)
 
 ## 🚀 Features
 
@@ -46,6 +46,8 @@
 ## 💬 Uncategorized
 
 - Http server and improved login ([PR #88](https://github.com/icosa-foundation/open-blocks/pull/88) by @andybak)
+
+- Better publish UI ([PR #94](https://github.com/icosa-foundation/open-blocks/pull/94) by @andybak)
 
 
 
