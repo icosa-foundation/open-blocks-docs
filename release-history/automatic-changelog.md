@@ -1,6 +1,6 @@
 # Changelog since v0.4
 
-[Full release details](https://github.com/icosa-foundation/open-blocks/compare/v0.4...26bc0bca61f7a96626c4b02c4279b2b57b6f1248)
+[Full release details](https://github.com/icosa-foundation/open-blocks/compare/v0.4...45a8ac826d0b07728d4b44abb5c009d7388e4173)
 
 ## 🚀 Features
 
@@ -9,6 +9,10 @@
 - Add CSG operations to Shape Tool ([PR #25](https://github.com/icosa-foundation/open-blocks/pull/25) by @andybak)
 
 - Icosa integration ([PR #70](https://github.com/icosa-foundation/open-blocks/pull/70) by @andybak)
+
+- Http server and improved login ([PR #88](https://github.com/icosa-foundation/open-blocks/pull/88) by @andybak)
+
+- Better publish UI ([PR #94](https://github.com/icosa-foundation/open-blocks/pull/94) by @andybak)
 
 
 ## 🐛 Fixes
@@ -26,6 +30,8 @@
 - Fix edge vertex highlight scale ([PR #87](https://github.com/icosa-foundation/open-blocks/pull/87) by @andybak)
 
 - Fix upload bugs ([PR #91](https://github.com/icosa-foundation/open-blocks/pull/91) by @andybak)
+
+- Fix startup error ([PR #95](https://github.com/icosa-foundation/open-blocks/pull/95) by @andybak)
 
 
 ## 🛠️ Infrastructure
@@ -45,11 +51,7 @@
 
 ## 💬 Uncategorized
 
-- Http server and improved login ([PR #88](https://github.com/icosa-foundation/open-blocks/pull/88) by @andybak)
-
-- Better publish UI ([PR #94](https://github.com/icosa-foundation/open-blocks/pull/94) by @andybak)
-
-- Fix startup error ([PR #95](https://github.com/icosa-foundation/open-blocks/pull/95) by @andybak)
+- Miscellaneous UI fixes ([PR #97](https://github.com/icosa-foundation/open-blocks/pull/97) by @andybak)
 
 
 
