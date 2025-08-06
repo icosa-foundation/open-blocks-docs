@@ -2,20 +2,6 @@
 description: Blocks is open source 🎉
 cover: ../.gitbook/assets/meta hero.png
 coverY: 0
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # Introducing Open Blocks!
@@ -85,7 +71,9 @@ If you would like to support us financially, we have an [Open Collective](https:
 [Discord](https://discord.gg/W7NCEYnEfy)\
 [Open Collective](https://opencollective.com/icosa)\
 [Social Media](https://linktr.ee/openblocks)\
-\
+
+
+[Open Blocks Quest Store Page](https://www.meta.com/en-gb/experiences/open-blocks-low-poly-3d-modelling/8043509915705378/)\
 [Open Blocks Steam Download Page](https://store.steampowered.com/app/3077230/Open_Blocks/)\
 [Open Blocks Code on Github](https://github.com/icosa-foundation/open-blocks)
 
