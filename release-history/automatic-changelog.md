@@ -1,6 +1,6 @@
 # Changelog since v0.4
 
-[Full release details](https://github.com/icosa-foundation/open-blocks/compare/v0.4...45a8ac826d0b07728d4b44abb5c009d7388e4173)
+[Full release details](https://github.com/icosa-foundation/open-blocks/compare/v0.4...db99e9d10659f2eee81962dec0a49aca3ede1a2b)
 
 ## 🚀 Features
 
@@ -33,6 +33,8 @@
 
 - Fix startup error ([PR #95](https://github.com/icosa-foundation/open-blocks/pull/95) by @andybak)
 
+- Miscellaneous UI fixes ([PR #97](https://github.com/icosa-foundation/open-blocks/pull/97) by @andybak)
+
 
 ## 🛠️ Infrastructure
 
@@ -48,10 +50,7 @@
 
 - Fix Windows line endings ([PR #93](https://github.com/icosa-foundation/open-blocks/pull/93) by @mikeage)
 
-
-## 💬 Uncategorized
-
-- Miscellaneous UI fixes ([PR #97](https://github.com/icosa-foundation/open-blocks/pull/97) by @andybak)
+- Cherry-pick build improvements from Open Brush ([PR #99](https://github.com/icosa-foundation/open-blocks/pull/99) by @mikeage)
 
 
 
