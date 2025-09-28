@@ -1,6 +1,6 @@
 # Changelog since v0.4
 
-[Full release details](https://github.com/icosa-foundation/open-blocks/compare/v0.4...db99e9d10659f2eee81962dec0a49aca3ede1a2b)
+[Full release details](https://github.com/icosa-foundation/open-blocks/compare/v0.4...d0dcd48bf7223c9922e28ab8b9faf94ff1824b03)
 
 ## 🚀 Features
 
@@ -34,6 +34,8 @@
 - Fix startup error ([PR #95](https://github.com/icosa-foundation/open-blocks/pull/95) by @andybak)
 
 - Miscellaneous UI fixes ([PR #97](https://github.com/icosa-foundation/open-blocks/pull/97) by @andybak)
+
+- Fix api url override ([PR #101](https://github.com/icosa-foundation/open-blocks/pull/101) by @andybak)
 
 
 ## 🛠️ Infrastructure
