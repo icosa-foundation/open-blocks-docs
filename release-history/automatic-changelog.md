@@ -1,6 +1,6 @@
 # Changelog since v0.4
 
-[Full release details](https://github.com/icosa-foundation/open-blocks/compare/v0.4...d0dcd48bf7223c9922e28ab8b9faf94ff1824b03)
+[Full release details](https://github.com/icosa-foundation/open-blocks/compare/v0.4...fabff7bc198ea965b2d75577c63b146f17708fb0)
 
 ## 🚀 Features
 
@@ -53,6 +53,11 @@
 - Fix Windows line endings ([PR #93](https://github.com/icosa-foundation/open-blocks/pull/93) by @mikeage)
 
 - Cherry-pick build improvements from Open Brush ([PR #99](https://github.com/icosa-foundation/open-blocks/pull/99) by @mikeage)
+
+
+## 📦 Dependencies / Maintenance
+
+- Unity version bump ([PR #102](https://github.com/icosa-foundation/open-blocks/pull/102) by @andybak)
 
 
 
