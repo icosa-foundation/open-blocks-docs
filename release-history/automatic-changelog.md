@@ -1,6 +1,6 @@
 # Changelog since v0.4
 
-[Full release details](https://github.com/icosa-foundation/open-blocks/compare/v0.4...4705a6fe190b0691e4cb7c322c36790cbe799c89)
+[Full release details](https://github.com/icosa-foundation/open-blocks/compare/v0.4...d92c77e6f8e7fa4770aa031353c320b7576f884a)
 
 ## 🚀 Features
 
@@ -36,6 +36,8 @@
 - Miscellaneous UI fixes ([PR #97](https://github.com/icosa-foundation/open-blocks/pull/97) by @andybak)
 
 - Fix api url override ([PR #101](https://github.com/icosa-foundation/open-blocks/pull/101) by @andybak)
+
+- Fix icosa login success message ([PR #104](https://github.com/icosa-foundation/open-blocks/pull/104) by @andybak)
 
 
 ## 🛠️ Infrastructure
