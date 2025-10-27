@@ -1,6 +1,6 @@
 # Changelog since v0.4
 
-[Full release details](https://github.com/icosa-foundation/open-blocks/compare/v0.4...b76a93ca32e3ec350888a22e94c17d1f0efa18b8)
+[Full release details](https://github.com/icosa-foundation/open-blocks/compare/v0.4...0f1019781a710a26cca8119772f0800dcd8dc0de)
 
 ## 🚀 Features
 
@@ -64,6 +64,8 @@
 - Unity version bump ([PR #102](https://github.com/icosa-foundation/open-blocks/pull/102) by @andybak)
 
 - Bump the all-actions-updates group with 6 updates ([PR #105](https://github.com/icosa-foundation/open-blocks/pull/105) by @dependabot[bot])
+
+- Bump the all-actions-updates group with 2 updates ([PR #106](https://github.com/icosa-foundation/open-blocks/pull/106) by @dependabot[bot])
 
 
 
