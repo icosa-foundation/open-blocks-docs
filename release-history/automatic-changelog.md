@@ -1,6 +1,6 @@
 # Changelog since v0.4
 
-[Full release details](https://github.com/icosa-foundation/open-blocks/compare/v0.4...0f1019781a710a26cca8119772f0800dcd8dc0de)
+[Full release details](https://github.com/icosa-foundation/open-blocks/compare/v0.4...7766fd7a935410c994883372ea306dabf968ca18)
 
 ## 🚀 Features
 
@@ -66,6 +66,11 @@
 - Bump the all-actions-updates group with 6 updates ([PR #105](https://github.com/icosa-foundation/open-blocks/pull/105) by @dependabot[bot])
 
 - Bump the all-actions-updates group with 2 updates ([PR #106](https://github.com/icosa-foundation/open-blocks/pull/106) by @dependabot[bot])
+
+
+## 💬 Uncategorized
+
+- CSG improvements ([PR #109](https://github.com/icosa-foundation/open-blocks/pull/109) by @andybak)
 
 
 
