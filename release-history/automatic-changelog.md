@@ -1,6 +1,6 @@
 # Changelog since v0.4
 
-[Full release details](https://github.com/icosa-foundation/open-blocks/compare/v0.4...779e28e5ffa7a529a454c5f2a2f1802f35c9337a)
+[Full release details](https://github.com/icosa-foundation/open-blocks/compare/v0.4...e53233043e16cc181efb79d02b6ed3ccd5168ddf)
 
 ## 🚀 Features
 
@@ -73,6 +73,8 @@
 ## 💬 Uncategorized
 
 - CSG improvements ([PR #109](https://github.com/icosa-foundation/open-blocks/pull/109) by @andybak)
+
+- Technology filter button ([PR #112](https://github.com/icosa-foundation/open-blocks/pull/112) by @andybak)
 
 
 
