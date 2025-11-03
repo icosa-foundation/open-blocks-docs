@@ -1,6 +1,6 @@
 # Changelog since v0.4
 
-[Full release details](https://github.com/icosa-foundation/open-blocks/compare/v0.4...7766fd7a935410c994883372ea306dabf968ca18)
+[Full release details](https://github.com/icosa-foundation/open-blocks/compare/v0.4...779e28e5ffa7a529a454c5f2a2f1802f35c9337a)
 
 ## 🚀 Features
 
@@ -13,6 +13,8 @@
 - Http server and improved login ([PR #88](https://github.com/icosa-foundation/open-blocks/pull/88) by @andybak)
 
 - Better publish UI ([PR #94](https://github.com/icosa-foundation/open-blocks/pull/94) by @andybak)
+
+- Switch to zip uploads ([PR #111](https://github.com/icosa-foundation/open-blocks/pull/111) by @andybak)
 
 
 ## 🐛 Fixes
