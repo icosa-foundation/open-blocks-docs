@@ -1,6 +1,6 @@
 # Changelog since v0.4
 
-[Full release details](https://github.com/icosa-foundation/open-blocks/compare/v0.4...acf0a1a6db94ea92df0125cf9432f713834238ff)
+[Full release details](https://github.com/icosa-foundation/open-blocks/compare/v0.4...54e8a6cb4223fc2ed974fecd563dca4ab2b0af5a)
 
 ## 🚀 Features
 
@@ -15,6 +15,8 @@
 - Better publish UI ([PR #94](https://github.com/icosa-foundation/open-blocks/pull/94) by @andybak)
 
 - Switch to zip uploads ([PR #111](https://github.com/icosa-foundation/open-blocks/pull/111) by @andybak)
+
+- OBJ/GLTF import ([PR #114](https://github.com/icosa-foundation/open-blocks/pull/114) by @andybak)
 
 
 ## 🐛 Fixes
