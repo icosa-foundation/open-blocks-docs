@@ -1,6 +1,6 @@
 # Changelog since v0.4
 
-[Full release details](https://github.com/icosa-foundation/open-blocks/compare/v0.4...4ab0d73e68f8c87c1f80467c2e7696f8133db2c8)
+[Full release details](https://github.com/icosa-foundation/open-blocks/compare/v0.4...524d900b79f47f96d11c63345a9189ed82012c1e)
 
 ## 🚀 Features
 
@@ -17,6 +17,8 @@
 - Switch to zip uploads ([PR #111](https://github.com/icosa-foundation/open-blocks/pull/111) by @andybak)
 
 - OBJ/GLTF import ([PR #114](https://github.com/icosa-foundation/open-blocks/pull/114) by @andybak)
+
+- Import .vox files ([PR #116](https://github.com/icosa-foundation/open-blocks/pull/116) by @andybak)
 
 
 ## 🐛 Fixes
