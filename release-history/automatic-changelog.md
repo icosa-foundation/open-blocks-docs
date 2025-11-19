@@ -1,6 +1,6 @@
 # Changelog since v0.4
 
-[Full release details](https://github.com/icosa-foundation/open-blocks/compare/v0.4...4fd79ef404640db68e28987a24247b94d8bcf223)
+[Full release details](https://github.com/icosa-foundation/open-blocks/compare/v0.4...6149b674f3556ed1c0bf84cfc99302ae6e47421f)
 
 ## 🚀 Features
 
@@ -50,6 +50,8 @@
 - Fix opening urls in browser ([PR #113](https://github.com/icosa-foundation/open-blocks/pull/113) by @andybak)
 
 - Fix obj import issues ([PR #115](https://github.com/icosa-foundation/open-blocks/pull/115) by @andybak)
+
+- Fix polycount metadata ([PR #120](https://github.com/icosa-foundation/open-blocks/pull/120) by @andybak)
 
 
 ## 🛠️ Infrastructure
