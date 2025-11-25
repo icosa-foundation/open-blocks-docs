@@ -1,6 +1,6 @@
 # Changelog since v0.4
 
-[Full release details](https://github.com/icosa-foundation/open-blocks/compare/v0.4...6ffb6a9ee80468985fcdd5c467ff5f9caf5c16d8)
+[Full release details](https://github.com/icosa-foundation/open-blocks/compare/v0.4...77ea7aa5670483eedafc56963c4c52ae388218c5)
 
 ## 🚀 Features
 
@@ -84,6 +84,8 @@
 - Bump mikepenz/release-changelog-builder-action from 5 to 6 in the all-actions-updates group ([PR #110](https://github.com/icosa-foundation/open-blocks/pull/110) by @dependabot[bot])
 
 - Bump actions/checkout from 5 to 6 in the all-actions-updates group ([PR #121](https://github.com/icosa-foundation/open-blocks/pull/121) by @dependabot[bot])
+
+- Bump the all-actions-updates group with 2 updates ([PR #122](https://github.com/icosa-foundation/open-blocks/pull/122) by @dependabot[bot])
 
 
 ## 💬 Uncategorized
