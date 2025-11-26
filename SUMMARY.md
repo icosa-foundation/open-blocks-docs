@@ -26,6 +26,7 @@
 
 ***
 
+* [Getting Open Blocks](getting-open-blocks.md)
 * [Sponsors](sponsors.md)
 * [Contacting Us](contacting-us.md)
 * [Privacy Policy](privacy-policy.md)

@@ -65,13 +65,11 @@ Icosa Foundation was created with the mission of preserving and maintaining the 
 
 If you would like to support us financially, we have an [Open Collective](https://opencollective.com/icosa) page. Any funds raised go towards maintaining our free software, with contributions going towards bug bounties, freelance developers, store fees, and paying for server infrastructure. Any support is greatly appreciated.\
 \
-**Links**\
-
+**Links**<br>
 
 [Discord](https://discord.gg/W7NCEYnEfy)\
 [Open Collective](https://opencollective.com/icosa)\
-[Social Media](https://linktr.ee/openblocks)\
-
+[Social Media](https://linktr.ee/openblocks)<br>
 
 [Open Blocks Quest Store Page](https://www.meta.com/en-gb/experiences/open-blocks-low-poly-3d-modelling/8043509915705378/)\
 [Open Blocks Steam Download Page](https://store.steampowered.com/app/3077230/Open_Blocks/)\
@@ -79,6 +77,5 @@ If you would like to support us financially, we have an [Open Collective](https:
 
 [Icosa Foundation Home Page](https://icosa.foundation/)\
 \
-\
-
+<br>
 
