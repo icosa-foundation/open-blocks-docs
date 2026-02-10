@@ -1,6 +1,6 @@
 # Changelog since v0.4
 
-[Full release details](https://github.com/icosa-foundation/open-blocks/compare/v0.4...31a0e8ec0a2ca7f5400220cd7204e4b8f0f6129e)
+[Full release details](https://github.com/icosa-foundation/open-blocks/compare/v0.4...fb50b04f5966938ead9068b951e390c6f035cabe)
 
 ## 🚀 Features
 
@@ -71,6 +71,8 @@
 - Cherry-pick build improvements from Open Brush ([PR #99](https://github.com/icosa-foundation/open-blocks/pull/99) by @mikeage)
 
 - Sync tags ([PR #103](https://github.com/icosa-foundation/open-blocks/pull/103) by @mikeage)
+
+- Replace pre-commit with prek (and update pre-commit-config) ([PR #127](https://github.com/icosa-foundation/open-blocks/pull/127) by @mikeage)
 
 
 ## 📦 Dependencies / Maintenance
