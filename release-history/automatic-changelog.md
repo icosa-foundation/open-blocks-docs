@@ -1,6 +1,6 @@
 # Changelog since v0.4
 
-[Full release details](https://github.com/icosa-foundation/open-blocks/compare/v0.4...3a9ce3e1078d7602b669522838477375082cb362)
+[Full release details](https://github.com/icosa-foundation/open-blocks/compare/v0.4...31e13546180d165081133de81cd1ae39aef108b5)
 
 ## 🚀 Features
 
@@ -98,6 +98,8 @@
 - Bump the all-actions-updates group with 2 updates ([PR #130](https://github.com/icosa-foundation/open-blocks/pull/130) by @dependabot[bot])
 
 - Bump actions/setup-dotnet from 5.1.0 to 5.2.0 in the all-actions-updates group ([PR #131](https://github.com/icosa-foundation/open-blocks/pull/131) by @dependabot[bot])
+
+- Bump dorny/paths-filter from 3 to 4 in the all-actions-updates group ([PR #132](https://github.com/icosa-foundation/open-blocks/pull/132) by @dependabot[bot])
 
 
 ## 💬 Uncategorized
