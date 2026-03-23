@@ -1,6 +1,6 @@
 # Changelog since v0.4
 
-[Full release details](https://github.com/icosa-foundation/open-blocks/compare/v0.4...31e13546180d165081133de81cd1ae39aef108b5)
+[Full release details](https://github.com/icosa-foundation/open-blocks/compare/v0.4...d706b65364de0dc6c65d02983cdf4792f9d09fdb)
 
 ## 🚀 Features
 
@@ -100,6 +100,8 @@
 - Bump actions/setup-dotnet from 5.1.0 to 5.2.0 in the all-actions-updates group ([PR #131](https://github.com/icosa-foundation/open-blocks/pull/131) by @dependabot[bot])
 
 - Bump dorny/paths-filter from 3 to 4 in the all-actions-updates group ([PR #132](https://github.com/icosa-foundation/open-blocks/pull/132) by @dependabot[bot])
+
+- Bump CyberAndrii/setup-steamcmd from 1.2.0 to 1.3.0 in the all-actions-updates group ([PR #133](https://github.com/icosa-foundation/open-blocks/pull/133) by @dependabot[bot])
 
 
 ## 💬 Uncategorized
