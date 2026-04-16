@@ -1,6 +1,6 @@
 # Changelog since v0.4
 
-[Full release details](https://github.com/icosa-foundation/open-blocks/compare/v0.4...d706b65364de0dc6c65d02983cdf4792f9d09fdb)
+[Full release details](https://github.com/icosa-foundation/open-blocks/compare/v0.4...0a2fdf917ed4cdaf67840381de6e29bbe23da379)
 
 ## 🚀 Features
 
@@ -102,6 +102,8 @@
 - Bump dorny/paths-filter from 3 to 4 in the all-actions-updates group ([PR #132](https://github.com/icosa-foundation/open-blocks/pull/132) by @dependabot[bot])
 
 - Bump CyberAndrii/setup-steamcmd from 1.2.0 to 1.3.0 in the all-actions-updates group ([PR #133](https://github.com/icosa-foundation/open-blocks/pull/133) by @dependabot[bot])
+
+- Bump softprops/action-gh-release from 2 to 3 in the all-actions-updates group ([PR #134](https://github.com/icosa-foundation/open-blocks/pull/134) by @dependabot[bot])
 
 
 ## 💬 Uncategorized
