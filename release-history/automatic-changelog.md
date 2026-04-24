@@ -1,6 +1,6 @@
 # Changelog since v0.4
 
-[Full release details](https://github.com/icosa-foundation/open-blocks/compare/v0.4...73a04847267d5f93a417744f097951c1216806d2)
+[Full release details](https://github.com/icosa-foundation/open-blocks/compare/v0.4...a0088cfd0767cbb6bbb5fd782f4226f1d3f6993e)
 
 ## 🚀 Features
 
@@ -115,6 +115,8 @@
 - Fix rendering of modify tool ([PR #119](https://github.com/icosa-foundation/open-blocks/pull/119) by @andybak)
 
 - Better icosa ux ([PR #135](https://github.com/icosa-foundation/open-blocks/pull/135) by @andybak)
+
+- Fix model imports ([PR #137](https://github.com/icosa-foundation/open-blocks/pull/137) by @andybak)
 
 
 
