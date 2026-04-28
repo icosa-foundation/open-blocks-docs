@@ -1,6 +1,6 @@
 # Changelog since v0.4
 
-[Full release details](https://github.com/icosa-foundation/open-blocks/compare/v0.4...a0088cfd0767cbb6bbb5fd782f4226f1d3f6993e)
+[Full release details](https://github.com/icosa-foundation/open-blocks/compare/v0.4...1f4416641339ba07daad12e7e2ee6a1bdc66b246)
 
 ## 🚀 Features
 
@@ -117,6 +117,8 @@
 - Better icosa ux ([PR #135](https://github.com/icosa-foundation/open-blocks/pull/135) by @andybak)
 
 - Fix model imports ([PR #137](https://github.com/icosa-foundation/open-blocks/pull/137) by @andybak)
+
+- Complexity slider and filtering fixes ([PR #138](https://github.com/icosa-foundation/open-blocks/pull/138) by @andybak)
 
 
 
