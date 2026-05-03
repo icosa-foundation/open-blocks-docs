@@ -1,6 +1,6 @@
 # Changelog since v0.4
 
-[Full release details](https://github.com/icosa-foundation/open-blocks/compare/v0.4...f8ec5fdd26491520e5729fa17c71914cfb295366)
+[Full release details](https://github.com/icosa-foundation/open-blocks/compare/v0.4...07eaa2eeb3867382366d83a885f1f25dea15da4a)
 
 ## 🚀 Features
 
@@ -121,6 +121,8 @@
 - Complexity slider and filtering fixes ([PR #138](https://github.com/icosa-foundation/open-blocks/pull/138) by @andybak)
 
 - Remove UserSettings ([PR #141](https://github.com/icosa-foundation/open-blocks/pull/141) by @andybak)
+
+- Better mesh editing ([PR #140](https://github.com/icosa-foundation/open-blocks/pull/140) by @andybak)
 
 
 
