@@ -1,6 +1,6 @@
 # Changelog since v0.4
 
-[Full release details](https://github.com/icosa-foundation/open-blocks/compare/v0.4...60415a01a5e86f865cec91a3e52b23ff78bf24eb)
+[Full release details](https://github.com/icosa-foundation/open-blocks/compare/v0.4...3d4095b76fd5764a9b112185b619e910cf7b2198)
 
 ## 🚀 Features
 
@@ -125,6 +125,8 @@
 - Better mesh editing ([PR #140](https://github.com/icosa-foundation/open-blocks/pull/140) by @andybak)
 
 - Fix imported vertex color ([PR #142](https://github.com/icosa-foundation/open-blocks/pull/142) by @andybak)
+
+- Fix various API and import bugs ([PR #139](https://github.com/icosa-foundation/open-blocks/pull/139) by @andybak)
 
 
 
