@@ -1,6 +1,6 @@
 # Changelog since v0.4
 
-[Full release details](https://github.com/icosa-foundation/open-blocks/compare/v0.4...3d4095b76fd5764a9b112185b619e910cf7b2198)
+[Full release details](https://github.com/icosa-foundation/open-blocks/compare/v0.4...b2d2f769068e235a3ec33dce3370188600cf1b8a)
 
 ## 🚀 Features
 
@@ -127,6 +127,8 @@
 - Fix imported vertex color ([PR #142](https://github.com/icosa-foundation/open-blocks/pull/142) by @andybak)
 
 - Fix various API and import bugs ([PR #139](https://github.com/icosa-foundation/open-blocks/pull/139) by @andybak)
+
+- API and debug console refactor ([PR #144](https://github.com/icosa-foundation/open-blocks/pull/144) by @andybak)
 
 
 
