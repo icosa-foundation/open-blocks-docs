@@ -1,6 +1,6 @@
 # Changelog since v0.4
 
-[Full release details](https://github.com/icosa-foundation/open-blocks/compare/v0.4...b42006e0107405b6ffb00f5b0892a7a7b195c259)
+[Full release details](https://github.com/icosa-foundation/open-blocks/compare/v0.4...9bc15c23d4d810239904ea2fa0b958b47f852a9a)
 
 ## 🚀 Features
 
@@ -131,6 +131,8 @@
 - API and debug console refactor ([PR #144](https://github.com/icosa-foundation/open-blocks/pull/144) by @andybak)
 
 - Import bugs ([PR #146](https://github.com/icosa-foundation/open-blocks/pull/146) by @andybak)
+
+- Mesh validator performance improvements ([PR #147](https://github.com/icosa-foundation/open-blocks/pull/147) by @andybak)
 
 
 
