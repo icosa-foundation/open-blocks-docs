@@ -1,6 +1,6 @@
 # Changelog since v0.4
 
-[Full release details](https://github.com/icosa-foundation/open-blocks/compare/v0.4...b2d2f769068e235a3ec33dce3370188600cf1b8a)
+[Full release details](https://github.com/icosa-foundation/open-blocks/compare/v0.4...b42006e0107405b6ffb00f5b0892a7a7b195c259)
 
 ## 🚀 Features
 
@@ -129,6 +129,8 @@
 - Fix various API and import bugs ([PR #139](https://github.com/icosa-foundation/open-blocks/pull/139) by @andybak)
 
 - API and debug console refactor ([PR #144](https://github.com/icosa-foundation/open-blocks/pull/144) by @andybak)
+
+- Import bugs ([PR #146](https://github.com/icosa-foundation/open-blocks/pull/146) by @andybak)
 
 
 
