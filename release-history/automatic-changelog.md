@@ -22,6 +22,14 @@
 
 - Feature/remove colinear vertices ([PR #117](https://github.com/icosa-foundation/open-blocks/pull/117) by @andybak)
 
+- CSG improvements ([PR #109](https://github.com/icosa-foundation/open-blocks/pull/109) by @andybak)
+
+- Technology filter button ([PR #112](https://github.com/icosa-foundation/open-blocks/pull/112) by @andybak)
+
+- Better mesh editing ([PR #140](https://github.com/icosa-foundation/open-blocks/pull/140) by @andybak)
+
+- API and debug console refactor ([PR #144](https://github.com/icosa-foundation/open-blocks/pull/144) by @andybak)
+
 
 ## 🐛 Fixes
 
@@ -52,6 +60,26 @@
 - Fix obj import issues ([PR #115](https://github.com/icosa-foundation/open-blocks/pull/115) by @andybak)
 
 - Fix polycount metadata ([PR #120](https://github.com/icosa-foundation/open-blocks/pull/120) by @andybak)
+
+- Fix rendering of modify tool ([PR #119](https://github.com/icosa-foundation/open-blocks/pull/119) by @andybak)
+
+- Better icosa ux ([PR #135](https://github.com/icosa-foundation/open-blocks/pull/135) by @andybak)
+
+- Fix model imports ([PR #137](https://github.com/icosa-foundation/open-blocks/pull/137) by @andybak)
+
+- Complexity slider and filtering fixes ([PR #138](https://github.com/icosa-foundation/open-blocks/pull/138) by @andybak)
+
+- Remove UserSettings ([PR #141](https://github.com/icosa-foundation/open-blocks/pull/141) by @andybak)
+
+- Fix imported vertex color ([PR #142](https://github.com/icosa-foundation/open-blocks/pull/142) by @andybak)
+
+- Fix various API and import bugs ([PR #139](https://github.com/icosa-foundation/open-blocks/pull/139) by @andybak)
+
+- Import bugs ([PR #146](https://github.com/icosa-foundation/open-blocks/pull/146) by @andybak)
+
+- Mesh validator performance improvements ([PR #147](https://github.com/icosa-foundation/open-blocks/pull/147) by @andybak)
+
+- Reshaper performance and bug fixes ([PR #148](https://github.com/icosa-foundation/open-blocks/pull/148) by @andybak)
 
 
 ## 🛠️ Infrastructure
@@ -104,39 +132,5 @@
 - Bump CyberAndrii/setup-steamcmd from 1.2.0 to 1.3.0 in the all-actions-updates group ([PR #133](https://github.com/icosa-foundation/open-blocks/pull/133) by @dependabot[bot])
 
 - Bump softprops/action-gh-release from 2 to 3 in the all-actions-updates group ([PR #134](https://github.com/icosa-foundation/open-blocks/pull/134) by @dependabot[bot])
-
-
-## 💬 Uncategorized
-
-- CSG improvements ([PR #109](https://github.com/icosa-foundation/open-blocks/pull/109) by @andybak)
-
-- Technology filter button ([PR #112](https://github.com/icosa-foundation/open-blocks/pull/112) by @andybak)
-
-- Fix rendering of modify tool ([PR #119](https://github.com/icosa-foundation/open-blocks/pull/119) by @andybak)
-
-- Better icosa ux ([PR #135](https://github.com/icosa-foundation/open-blocks/pull/135) by @andybak)
-
-- Fix model imports ([PR #137](https://github.com/icosa-foundation/open-blocks/pull/137) by @andybak)
-
-- Complexity slider and filtering fixes ([PR #138](https://github.com/icosa-foundation/open-blocks/pull/138) by @andybak)
-
-- Remove UserSettings ([PR #141](https://github.com/icosa-foundation/open-blocks/pull/141) by @andybak)
-
-- Better mesh editing ([PR #140](https://github.com/icosa-foundation/open-blocks/pull/140) by @andybak)
-
-- Fix imported vertex color ([PR #142](https://github.com/icosa-foundation/open-blocks/pull/142) by @andybak)
-
-- Fix various API and import bugs ([PR #139](https://github.com/icosa-foundation/open-blocks/pull/139) by @andybak)
-
-- API and debug console refactor ([PR #144](https://github.com/icosa-foundation/open-blocks/pull/144) by @andybak)
-
-- Import bugs ([PR #146](https://github.com/icosa-foundation/open-blocks/pull/146) by @andybak)
-
-- Mesh validator performance improvements ([PR #147](https://github.com/icosa-foundation/open-blocks/pull/147) by @andybak)
-
-- Reshaper performance and bug fixes ([PR #148](https://github.com/icosa-foundation/open-blocks/pull/148) by @andybak)
-
-
-
 
 
