@@ -1,10 +1,10 @@
-# Changelog since v0.6
+# Changelog since v0.7
 
-[Full release details](https://github.com/icosa-foundation/open-blocks/compare/v0.6...f88dd9a4e099ac4d25ec50f4c8a4700c03e3e14d)
+[Full release details](https://github.com/icosa-foundation/open-blocks/compare/v0.7...fc616758cd96abe18512b88a1565885de4671914)
 
-## 💬 Uncategorized
+## 🚀 Features
 
-- Fix OpenXR crashes ([PR #149](https://github.com/icosa-foundation/open-blocks/pull/149) by @andybak)
+- More Platforms ([PR #118](https://github.com/icosa-foundation/open-blocks/pull/118) by @andybak)
 
 
 
