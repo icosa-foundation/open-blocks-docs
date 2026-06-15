@@ -1,10 +1,10 @@
-# Changelog since v0.8
+# Changelog since v0.9
 
-[Full release details](https://github.com/icosa-foundation/open-blocks/compare/v0.8...3a664a2e9af596dc166fe35983221eb52a8089f2)
+[Full release details](https://github.com/icosa-foundation/open-blocks/compare/v0.9...5a52d5d894da7265ca1a009aa1584fe09a2a0738)
 
-## 🐛 Fixes
+## 🚀 Features
 
-- Pico CI fix ([PR #153](https://github.com/icosa-foundation/open-blocks/pull/153) by @andybak)
+- API geometry creation ([PR #155](https://github.com/icosa-foundation/open-blocks/pull/155) by @andybak)
 
 
 
