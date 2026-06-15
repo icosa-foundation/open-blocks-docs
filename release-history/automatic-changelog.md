@@ -1,10 +1,15 @@
 # Changelog since v0.9
 
-[Full release details](https://github.com/icosa-foundation/open-blocks/compare/v0.9...5a52d5d894da7265ca1a009aa1584fe09a2a0738)
+[Full release details](https://github.com/icosa-foundation/open-blocks/compare/v0.9...ba27450c511e7955c3a4645c81125795117a0d44)
 
 ## 🚀 Features
 
 - API geometry creation ([PR #155](https://github.com/icosa-foundation/open-blocks/pull/155) by @andybak)
+
+
+## 🐛 Fixes
+
+- Fix login / CORS ([PR #156](https://github.com/icosa-foundation/open-blocks/pull/156) by @andybak)
 
 
 
