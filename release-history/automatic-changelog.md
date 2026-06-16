@@ -1,6 +1,6 @@
 # Changelog since v0.9
 
-[Full release details](https://github.com/icosa-foundation/open-blocks/compare/v0.9...cce73ceee9488c54055b278b6974b0dedaa021ea)
+[Full release details](https://github.com/icosa-foundation/open-blocks/compare/v0.9...a1fb141bcc066fa711878e671cff7d5951190ae0)
 
 ## 🚀 Features
 
@@ -12,6 +12,8 @@
 - Fix login / CORS ([PR #156](https://github.com/icosa-foundation/open-blocks/pull/156) by @andybak)
 
 - Allow list for Polyhydra (and others in future) ([PR #157](https://github.com/icosa-foundation/open-blocks/pull/157) by @andybak)
+
+- Stop persisting config URL overrides in PlayerPrefs ([PR #158](https://github.com/icosa-foundation/open-blocks/pull/158) by @andybak)
 
 
 
