@@ -1,6 +1,6 @@
 # Changelog since v0.9
 
-[Full release details](https://github.com/icosa-foundation/open-blocks/compare/v0.9...e3e412b74e327bb0d24c4c41a81e1cd31d10e58e)
+[Full release details](https://github.com/icosa-foundation/open-blocks/compare/v0.9...08df16161c2940401115ee7d4fa9823cc4ebdb7a)
 
 ## 🚀 Features
 
@@ -19,6 +19,8 @@
 ## 📦 Dependencies / Maintenance
 
 - Bump actions/checkout from 6 to 7 in the all-actions-updates group ([PR #160](https://github.com/icosa-foundation/open-blocks/pull/160) by @dependabot[bot])
+
+- Bump actions/cache from 5 to 6 in the all-actions-updates group ([PR #161](https://github.com/icosa-foundation/open-blocks/pull/161) by @dependabot[bot])
 
 
 
