@@ -1,6 +1,6 @@
 # Changelog since v0.9
 
-[Full release details](https://github.com/icosa-foundation/open-blocks/compare/v0.9...cc91145fae32aca7acde1f830eb3d1edf2281c6e)
+[Full release details](https://github.com/icosa-foundation/open-blocks/compare/v0.9...4536de626d970cc8ef62fcbb63e85aa9c0ba9c18)
 
 ## 🚀 Features
 
@@ -23,6 +23,8 @@
 - Bump actions/cache from 5 to 6 in the all-actions-updates group ([PR #161](https://github.com/icosa-foundation/open-blocks/pull/161) by @dependabot[bot])
 
 - Bump actions/setup-dotnet from 5.3.0 to 5.4.0 in the all-actions-updates group ([PR #162](https://github.com/icosa-foundation/open-blocks/pull/162) by @dependabot[bot])
+
+- Bump the all-actions-updates group with 2 updates ([PR #165](https://github.com/icosa-foundation/open-blocks/pull/165) by @dependabot[bot])
 
 
 ## 💬 Uncategorized
