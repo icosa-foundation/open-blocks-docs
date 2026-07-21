@@ -1,6 +1,6 @@
 # Changelog since v0.9
 
-[Full release details](https://github.com/icosa-foundation/open-blocks/compare/v0.9...fd7308b684c704b01cba2a0cc1082d147718b848)
+[Full release details](https://github.com/icosa-foundation/open-blocks/compare/v0.9...cc91145fae32aca7acde1f830eb3d1edf2281c6e)
 
 ## 🚀 Features
 
@@ -28,6 +28,8 @@
 ## 💬 Uncategorized
 
 - Mobile memory optimization ([PR #164](https://github.com/icosa-foundation/open-blocks/pull/164) by @andybak)
+
+- Play Store CI publishing ([PR #154](https://github.com/icosa-foundation/open-blocks/pull/154) by @andybak)
 
 
 
