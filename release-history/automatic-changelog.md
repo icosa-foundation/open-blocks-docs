@@ -1,6 +1,6 @@
 # Changelog since v0.9
 
-[Full release details](https://github.com/icosa-foundation/open-blocks/compare/v0.9...4536de626d970cc8ef62fcbb63e85aa9c0ba9c18)
+[Full release details](https://github.com/icosa-foundation/open-blocks/compare/v0.9...89ac09dd5197dd4af769e691f29229488e256032)
 
 ## 🚀 Features
 
@@ -14,6 +14,11 @@
 - Allow list for Polyhydra (and others in future) ([PR #157](https://github.com/icosa-foundation/open-blocks/pull/157) by @andybak)
 
 - Stop persisting config URL overrides in PlayerPrefs ([PR #158](https://github.com/icosa-foundation/open-blocks/pull/158) by @andybak)
+
+
+## 🛠️ Infrastructure
+
+- Add Meta store desktop publishing ([PR #166](https://github.com/icosa-foundation/open-blocks/pull/166) by @andybak)
 
 
 ## 📦 Dependencies / Maintenance
