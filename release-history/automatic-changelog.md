@@ -1,6 +1,6 @@
 # Changelog since v0.9
 
-[Full release details](https://github.com/icosa-foundation/open-blocks/compare/v0.9...89ac09dd5197dd4af769e691f29229488e256032)
+[Full release details](https://github.com/icosa-foundation/open-blocks/compare/v0.9...6c2b45d34c60a2dd63550080c2c8b5335a39f61d)
 
 ## 🚀 Features
 
@@ -14,6 +14,8 @@
 - Allow list for Polyhydra (and others in future) ([PR #157](https://github.com/icosa-foundation/open-blocks/pull/157) by @andybak)
 
 - Stop persisting config URL overrides in PlayerPrefs ([PR #158](https://github.com/icosa-foundation/open-blocks/pull/158) by @andybak)
+
+- API save paths ([PR #167](https://github.com/icosa-foundation/open-blocks/pull/167) by @andybak)
 
 
 ## 🛠️ Infrastructure
