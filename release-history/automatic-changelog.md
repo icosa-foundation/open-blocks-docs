@@ -1,44 +1,10 @@
-# Changelog since v0.9
+# Changelog since v0.10
 
-[Full release details](https://github.com/icosa-foundation/open-blocks/compare/v0.9...6c2b45d34c60a2dd63550080c2c8b5335a39f61d)
-
-## 🚀 Features
-
-- API geometry creation ([PR #155](https://github.com/icosa-foundation/open-blocks/pull/155) by @andybak)
-
-
-## 🐛 Fixes
-
-- Fix login / CORS ([PR #156](https://github.com/icosa-foundation/open-blocks/pull/156) by @andybak)
-
-- Allow list for Polyhydra (and others in future) ([PR #157](https://github.com/icosa-foundation/open-blocks/pull/157) by @andybak)
-
-- Stop persisting config URL overrides in PlayerPrefs ([PR #158](https://github.com/icosa-foundation/open-blocks/pull/158) by @andybak)
-
-- API save paths ([PR #167](https://github.com/icosa-foundation/open-blocks/pull/167) by @andybak)
-
-
-## 🛠️ Infrastructure
-
-- Add Meta store desktop publishing ([PR #166](https://github.com/icosa-foundation/open-blocks/pull/166) by @andybak)
-
-
-## 📦 Dependencies / Maintenance
-
-- Bump actions/checkout from 6 to 7 in the all-actions-updates group ([PR #160](https://github.com/icosa-foundation/open-blocks/pull/160) by @dependabot[bot])
-
-- Bump actions/cache from 5 to 6 in the all-actions-updates group ([PR #161](https://github.com/icosa-foundation/open-blocks/pull/161) by @dependabot[bot])
-
-- Bump actions/setup-dotnet from 5.3.0 to 5.4.0 in the all-actions-updates group ([PR #162](https://github.com/icosa-foundation/open-blocks/pull/162) by @dependabot[bot])
-
-- Bump the all-actions-updates group with 2 updates ([PR #165](https://github.com/icosa-foundation/open-blocks/pull/165) by @dependabot[bot])
-
+[Full release details](https://github.com/icosa-foundation/open-blocks/compare/v0.10...daa77072bda5bb630a868fef8ae73f99294c67d8)
 
 ## 💬 Uncategorized
 
-- Mobile memory optimization ([PR #164](https://github.com/icosa-foundation/open-blocks/pull/164) by @andybak)
-
-- Play Store CI publishing ([PR #154](https://github.com/icosa-foundation/open-blocks/pull/154) by @andybak)
+- Add ArborXR publish (both Q2+ and Pico, same APK) ([PR #168](https://github.com/icosa-foundation/open-blocks/pull/168) by @mikeage)
 
 
 
