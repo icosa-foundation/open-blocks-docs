@@ -1,6 +1,11 @@
 # Changelog since v0.10
 
-[Full release details](https://github.com/icosa-foundation/open-blocks/compare/v0.10...d3c3c06d02fbe70325348751cce2fbd5fac9db4c)
+[Full release details](https://github.com/icosa-foundation/open-blocks/compare/v0.10...f4d40545f2ca45b7569ed12f0b7982ca51f51730)
+
+## 🐛 Fixes
+
+- Switch to culture invariant strings for obj export ([PR #171](https://github.com/icosa-foundation/open-blocks/pull/171) by @andybak)
+
 
 ## 💬 Uncategorized
 
