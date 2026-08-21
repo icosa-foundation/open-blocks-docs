@@ -1,12 +1,14 @@
 # Changelog since v0.10
 
-[Full release details](https://github.com/icosa-foundation/open-blocks/compare/v0.10...6cc3468df9ce4d868031aaf4ada80e65048f67ee)
+[Full release details](https://github.com/icosa-foundation/open-blocks/compare/v0.10...f1a5f599c4dffd3019adf996bbbb1bf24a92e8a6)
 
 ## 🐛 Fixes
 
 - Switch to culture invariant strings for obj export ([PR #171](https://github.com/icosa-foundation/open-blocks/pull/171) by @andybak)
 
 - Steam frame login fixes ([PR #175](https://github.com/icosa-foundation/open-blocks/pull/175) by @andybak)
+
+- Remove steam_api64.dll from Rift upload ([PR #176](https://github.com/icosa-foundation/open-blocks/pull/176) by @andybak)
 
 
 ## 🛠️ Infrastructure
