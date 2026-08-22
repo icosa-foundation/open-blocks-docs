@@ -1,6 +1,11 @@
 # Changelog since v0.10
 
-[Full release details](https://github.com/icosa-foundation/open-blocks/compare/v0.10...f1a5f599c4dffd3019adf996bbbb1bf24a92e8a6)
+[Full release details](https://github.com/icosa-foundation/open-blocks/compare/v0.10...1fe309835af2eae3890f863d989b45240ef6db19)
+
+## 🚀 Features
+
+- Steam frame controller models ([PR #177](https://github.com/icosa-foundation/open-blocks/pull/177) by @andybak)
+
 
 ## 🐛 Fixes
 
