@@ -1,6 +1,6 @@
 # Changelog since v0.10
 
-[Full release details](https://github.com/icosa-foundation/open-blocks/compare/v0.10...b6551610bb46b312a4062847e9a5865c54c097a1)
+[Full release details](https://github.com/icosa-foundation/open-blocks/compare/v0.10...78a5529bdd000aa370209c9317106bc893eff325)
 
 ## 🚀 Features
 
@@ -16,6 +16,8 @@
 - Remove steam_api64.dll from Rift upload ([PR #176](https://github.com/icosa-foundation/open-blocks/pull/176) by @andybak)
 
 - Fix various tooltip issues ([PR #178](https://github.com/icosa-foundation/open-blocks/pull/178) by @andybak)
+
+- Steam Frame fixes ([PR #180](https://github.com/icosa-foundation/open-blocks/pull/180) by @andybak)
 
 
 ## 🛠️ Infrastructure
